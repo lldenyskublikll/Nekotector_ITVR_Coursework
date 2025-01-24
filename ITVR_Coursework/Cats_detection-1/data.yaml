@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 24
+names: ['Abyssinian', 'American Bobtail', 'American Curl', 'Bengal', 'Birman', 'Bombay', 'British Shorthair', 'Cornish Rex', 'Egyptian Mau', 'Khao Manee', 'Lykoi', 'Maine Coon', 'Munchkin', 'Neva Masquerade', 'Oriental', 'Persian', 'Ragdoll', 'Russian Blue', 'Savannah', 'Scottish Fold', 'Siamese', 'Sphynx', 'Toyger', 'Tuxedo']
+
+roboflow:
+  workspace: dekkan-neural-network-workspace
+  project: cats_detection-yjccj
+  version: 1
+  license: MIT
+  url: https://universe.roboflow.com/dekkan-neural-network-workspace/cats_detection-yjccj/dataset/1

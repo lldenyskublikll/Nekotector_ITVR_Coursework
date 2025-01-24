@@ -171,5 +171,5 @@ cython_debug/
 .pypirc
 
 # My Environment
-ITVR_Coursework\.env
-ITVR_Coursework\roboflow_api_key.txt
+ITVR_Coursework/.env
+ITVR_Coursework/roboflow_api_key.txt

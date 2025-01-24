@@ -1,0 +1,14 @@
+======================================================= Code =======================================================
+!pip install roboflow
+
+from roboflow import Roboflow
+rf = Roboflow(api_key="US6GFXKmmIauPoD8GLi5")
+project = rf.workspace("dekkan-neural-network-workspace").project("cats_detection-yjccj")
+version = project.version(1)
+dataset = version.download("yolov11")
+
+===================================================== Terminal =====================================================
+curl -L "https://app.roboflow.com/ds/pk9ZwyJ91s?key=q9ADh6O4il" > roboflow.zip; unzip roboflow.zip; rm roboflow.zip
+
+===================================================== RAW URL ======================================================
+https://app.roboflow.com/ds/pk9ZwyJ91s?key=q9ADh6O4il                

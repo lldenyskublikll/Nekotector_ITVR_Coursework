@@ -1,0 +1,711 @@
+Оберіть модель для тестування:
+1. Натренована модель
+2. Предтренована модель
+Введіть номер вибору (1 або 2): 1
+Використовується натренована модель: researches/yolo11m_(50_epochs,_16_img_per_batch)/runs/detect/train_result
+Оберіть тип даних для тестування моделі:
+1. Зображення
+2. Відео
+Введіть номер вибору (1 або 2): 1
+Тестування моделі на зображеннях з папки: C:/Users/ddkub/Desktop/ITVR_Coursework/test_images...
+
+image 1/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Abyssinian_108_jpg.rf.41048f5d4906026d6e74fd0d5cd61c4d.jpg: 640x640 1 Abyssinian, 404.8ms
+image 2/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Abyssinian_112_jpg.rf.065ab92e34d8b37e9aefba34571d2d95.jpg: 640x640 1 Abyssinian, 374.2ms
+image 3/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Abyssinian_128_jpg.rf.fa420214b28b6e75007ef350825f8470.jpg: 640x640 1 Abyssinian, 364.8ms
+image 4/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Abyssinian_131_jpg.rf.4f3c3acce837fedc026f98026afbe63a.jpg: 640x640 1 Abyssinian, 390.8ms
+image 5/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Abyssinian_172_jpg.rf.066fd658f89cc6a4277eb6c8fd8a81be.jpg: 640x640 1 Abyssinian, 384.6ms
+image 6/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Abyssinian_180_jpg.rf.3571275ab0470984cf76a95ba8148525.jpg: 640x640 1 Abyssinian, 434.1ms
+image 7/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Abyssinian_182_jpg.rf.e1b1abcf8cba406fbbafebd073eaed61.jpg: 640x640 1 Abyssinian, 359.6ms
+image 8/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Abyssinian_198_jpg.rf.eaef6e3054e759c75fc9737b50fb48c0.jpg: 640x640 1 Abyssinian, 357.7ms
+image 9/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Abyssinian_199_jpg.rf.e56c3eefade4a3a9987085232921e7e9.jpg: 640x640 1 Abyssinian, 368.6ms
+image 10/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Abyssinian_200_jpg.rf.2205d76a4c8cbc98aa495b0b3814893b.jpg: 640x640 1 Abyssinian, 340.3ms
+image 11/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Abyssinian_204_jpg.rf.ff9886e814ec14cbe510464eb76b99d3.jpg: 640x640 1 Bengal, 496.8ms
+image 12/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Abyssinian_213_jpg.rf.19b68b1e2288bd4f57872b4ddbcf79cd.jpg: 640x640 1 Abyssinian, 484.6ms
+image 13/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Abyssinian_236_jpg.rf.20a0baec8530312afc9311f3c01c5281.jpg: 640x640 1 Oriental, 444.9ms
+image 14/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Abyssinian_254_jpg.rf.b01853bd36499ee0f4af7121bf6eecaa.jpg: 640x640 1 Abyssinian, 477.7ms
+image 15/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Abyssinian_269_jpg.rf.d189e35dbbe00a3e28a000469426e32b.jpg: 640x640 1 Abyssinian, 351.0ms
+image 16/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Abyssinian_275_jpg.rf.51621aaa617124accafca0fd1d9ac2be.jpg: 640x640 1 Abyssinian, 359.4ms
+image 17/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Abyssinian_49_jpg.rf.8053262ac45dcd3e2611dfaf38f93f15.jpg: 640x640 1 Abyssinian, 370.7ms
+image 18/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Abyssinian_4_jpg.rf.2d7e5611fa0cddec621308a220028339.jpg: 640x640 1 Abyssinian, 348.0ms
+image 19/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Abyssinian_50_jpg.rf.731356eb6613615217e6b2d967dbc125.jpg: 640x640 1 Abyssinian, 347.8ms
+image 20/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Abyssinian_53_jpg.rf.905cc260983489fd062547543000a9c0.jpg: 640x640 1 Abyssinian, 348.5ms
+image 21/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Abyssinian_64_jpg.rf.823f84a70f684ee6d5c7af02b6d9281f.jpg: 640x640 1 Abyssinian, 341.2ms
+image 22/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Abyssinian_66_jpg.rf.f86e0e0781d96716478433b3ecff8786.jpg: 640x640 1 Abyssinian, 339.6ms
+image 23/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Abyssinian_69_jpg.rf.1b2abb89f34fc82b9417208deab9f10b.jpg: 640x640 1 Abyssinian, 353.3ms
+image 24/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Abyssinian_6_jpg.rf.00d1277488a6689745600b623c686600.jpg: 640x640 2 Abyssinians, 348.2ms
+image 25/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Abyssinian_81_jpg.rf.6d5786e47cc52f4845b6c335d3b7d7fb.jpg: 640x640 1 Abyssinian, 354.5ms
+image 26/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Abyssinian_92_jpg.rf.4c1c102488ba34edc6ab1727f4499baa.jpg: 640x640 1 Abyssinian, 343.2ms
+image 27/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Abyssinian_95_jpg.rf.4aab287cb52a1ba9ae945e75e66ddfaa.jpg: 640x640 1 Oriental, 353.5ms
+image 28/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\American_Bobtail_100_jpg.rf.1f6c4e66f21839984bf745d66b67bd69.jpg: 640x640 1 Neva Masquerade, 354.9ms
+image 29/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\American_Bobtail_115_jpg.rf.d35e14f406eeb7180d145d55bad859b9.jpg: 640x640 1 Khao Manee, 384.7ms
+image 30/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\American_Bobtail_137_webp.rf.73c113da44191818757c904c8278a016.jpg: 640x640 1 Munchkin, 367.6ms
+image 31/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\American_Bobtail_143_jpg.rf.4aa3738719277ac8dfaabb736ec35a31.jpg: 640x640 1 American Bobtail, 381.8ms
+image 32/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\American_Bobtail_144_jpg.rf.61218f22849176f8479d7197c889de1a.jpg: 640x640 1 American Bobtail, 376.1ms
+image 33/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\American_Bobtail_161_jpg.rf.9c5921cd8bce5e3418afb26f6c3be097.jpg: 640x640 1 Munchkin, 362.9ms
+image 34/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\American_Bobtail_165_jpg.rf.80838c8dd094c0fec48dbdef817c244a.jpg: 640x640 1 American Bobtail, 369.2ms
+image 35/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\American_Bobtail_167_jpg.rf.859c37ba0f371429a2bea09167af6c8a.jpg: 640x640 1 American Bobtail, 355.5ms
+image 36/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\American_Bobtail_184_jpg.rf.e00df95db35cf0071cba16c1cf2ebde5.jpg: 640x640 1 American Bobtail, 497.5ms
+image 37/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\American_Bobtail_18_png.rf.56212e40eacd60f865ce275adffb844c.jpg: 640x640 1 American Bobtail, 389.8ms
+image 38/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\American_Bobtail_193_jpg.rf.ff15a65f69b97ae67fa6eab206081136.jpg: 640x640 1 American Bobtail, 1 Maine Coon, 355.0ms
+image 39/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\American_Bobtail_214_jpg.rf.8044849d8f58cfcb9572fcd052c783de.jpg: 640x640 1 Bombay, 348.8ms
+image 40/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\American_Bobtail_218_jpg.rf.a3de79e9f3815a1aa030345e4100e256.jpg: 640x640 1 American Bobtail, 376.6ms
+image 41/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\American_Bobtail_22_jpg.rf.6bd515f2fa981d8696dba890199f0c5e.jpg: 640x640 1 American Bobtail, 367.4ms
+image 42/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\American_Bobtail_242_jpg.rf.6255718c40a525890bd111d2b11836f2.jpg: 640x640 1 American Bobtail, 349.2ms
+image 43/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\American_Bobtail_258_jpg.rf.fe4fc3820a8386231fc830610cfde879.jpg: 640x640 1 American Bobtail, 363.1ms
+image 44/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\American_Bobtail_261_jpg.rf.bbe12139b5f8abb5e6f86e6a4a9787ac.jpg: 640x640 1 American Bobtail, 366.6ms
+image 45/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\American_Bobtail_275_jpg.rf.0f8d48b1e2bc27b75a65b7a53d319ae2.jpg: 640x640 1 American Bobtail, 347.7ms
+image 46/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\American_Bobtail_282_jpg.rf.df09bbe541fc0b9ae220a4df5620a1d2.jpg: 640x640 1 American Bobtail, 1 Maine Coon, 360.4ms
+image 47/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\American_Bobtail_284_jpg.rf.4e3509032a2539aba051f5fdd07c6e9e.jpg: 640x640 1 American Bobtail, 1 Scottish Fold, 358.0ms
+image 48/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\American_Bobtail_29_jpg.rf.51c407ec7343b8f4d923f04fb761c951.jpg: 640x640 1 American Bobtail, 353.3ms
+image 49/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\American_Bobtail_300_jpg.rf.52a9b8bf6467b1f6b511360647904d51.jpg: 640x640 1 American Bobtail, 1 Russian Blue, 347.2ms
+image 50/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\American_Bobtail_316_jpg.rf.90152eea22f38082f9f516c96885826f.jpg: 640x640 1 American Bobtail, 356.5ms
+image 51/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\American_Bobtail_35_webp.rf.742943046059debb93497bf3345cc450.jpg: 640x640 1 American Bobtail, 364.8ms
+image 52/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\American_Bobtail_52_jpg.rf.3f764753ade921d395fd5b276ecbd867.jpg: 640x640 1 American Bobtail, 366.7ms
+image 53/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\American_Bobtail_55_jpeg.rf.25f64fe51537f3e74f142f3b835abbeb.jpg: 640x640 1 American Bobtail, 1 Munchkin, 357.1ms
+image 54/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\American_Bobtail_60_avif.rf.934c14190e55d8d60845f872a839b85d.jpg: 640x640 1 American Bobtail, 389.8ms
+image 55/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\American_Bobtail_73_jpg.rf.37aef953d3f12876041faecb8727f558.jpg: 640x640 1 American Bobtail, 393.4ms
+image 56/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\American_Bobtail_84_jpg.rf.7b30df77c2326b3736b8d93938f2dfe5.jpg: 640x640 1 American Bobtail, 1 Munchkin, 379.8ms
+image 57/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\American_Bobtail_91_jpg.rf.a31768eb02c1120e6eb81102c8e8f0ce.jpg: 640x640 1 American Bobtail, 360.4ms
+image 58/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\American_Bobtail_97_jpg.rf.b3de9f4184a87831b4c10cd7f0356166.jpg: 640x640 1 American Bobtail, 351.8ms
+image 59/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\American_Bobtail_9_png.rf.b6b753f393a25cd432a313576f8f48e2.jpg: 640x640 1 American Bobtail, 352.1ms
+image 60/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\American_Curl_102_jpg.rf.010d8ca949c5cc8501199fb0549123ca.jpg: 640x640 1 American Curl, 349.7ms
+image 61/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\American_Curl_10_avif.rf.3f4c3b42c4ca30fd3ed3c45f859d6268.jpg: 640x640 1 American Curl, 359.9ms
+image 62/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\American_Curl_110_jpg.rf.720bcb5ea381e3ca6798a7b128a7e38c.jpg: 640x640 1 American Curl, 350.6ms
+image 63/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\American_Curl_130_jpg.rf.0d01c4a3130a19cbed3c3ace7bb4846a.jpg: 640x640 1 American Curl, 354.6ms
+image 64/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\American_Curl_138_jpg.rf.c3831210b121f8e84efe382a634d2396.jpg: 640x640 1 American Curl, 345.1ms
+image 65/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\American_Curl_147_jpg.rf.59a8e7c51f9cfa39453a563b39285cbf.jpg: 640x640 1 American Curl, 354.6ms
+image 66/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\American_Curl_150_webp.rf.2603e3bf4342c486dfb0b1d19750b53c.jpg: 640x640 1 Neva Masquerade, 350.3ms
+image 67/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\American_Curl_153_jpg.rf.5b5a9a3d8366c2a82f9465204ce10ad6.jpg: 640x640 1 Bombay, 370.5ms
+image 68/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\American_Curl_159_jpg.rf.099f4eefa515cea7f27999924e70eb44.jpg: 640x640 1 American Curl, 394.4ms
+image 69/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\American_Curl_163_jpg.rf.381a871018104f9a9f4a6a6831209c65.jpg: 640x640 1 American Curl, 366.8ms
+image 70/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\American_Curl_170_avif.rf.7185b814b2c02e441051d301ded4835c.jpg: 640x640 1 American Curl, 368.5ms
+image 71/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\American_Curl_185_jpg.rf.7b016b8728d57657bc82dd9a6808877d.jpg: 640x640 1 American Curl, 356.1ms
+image 72/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\American_Curl_189_jpg.rf.6b2272d280815ffbecc3595d70c0c62a.jpg: 640x640 3 American Curls, 367.6ms
+image 73/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\American_Curl_210_jpg.rf.dfee431ae86fdf5f209ded8620ecebba.jpg: 640x640 1 American Curl, 359.4ms
+image 74/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\American_Curl_219_jpg.rf.86a5b409822773dd32e380450fc63d80.jpg: 640x640 1 American Curl, 351.2ms
+image 75/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\American_Curl_2_jpg.rf.06d1eadf54ccdbcf49235eb61a41367c.jpg: 640x640 1 American Curl, 350.1ms
+image 76/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\American_Curl_37_webp.rf.cf1b7bbda704d409a22c48015d8be646.jpg: 640x640 1 American Curl, 360.1ms
+image 77/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\American_Curl_41_jpg.rf.1436d8fedf135c5bd7fce56ef6379ba0.jpg: 640x640 1 American Curl, 353.1ms
+image 78/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\American_Curl_57_jpg.rf.37d71e70b0c6fdca3c847ef847a08f1f.jpg: 640x640 1 American Curl, 345.2ms
+image 79/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\American_Curl_70_jpg.rf.49bb4e51355c41359bb5e6e558e54ca3.jpg: 640x640 1 American Curl, 371.3ms
+image 80/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\American_Curl_75_jpg.rf.1546ce04dcf2074f53962453829ffd2a.jpg: 640x640 1 American Curl, 349.1ms
+image 81/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\American_Curl_96_jpg.rf.c9a9b426aa58d3c615ad1f80a9057994.jpg: 640x640 1 American Curl, 357.9ms
+image 82/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Bengal_111_jpg.rf.5f85eedb88b40b693f27cbef1d4b0d2d.jpg: 640x640 1 Bengal, 367.0ms
+image 83/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Bengal_113_jpg.rf.edca8a3be9f4d87f4d90c00d0754c75a.jpg: 640x640 1 Egyptian Mau, 1 Savannah, 354.6ms
+image 84/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Bengal_136_jpg.rf.45d50ff738516574a9228fe14c420ce7.jpg: 640x640 1 Bengal, 387.8ms
+image 85/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Bengal_13_jpg.rf.7a5612997e9a2d2fa5cde19779b93826.jpg: 640x640 1 Toyger, 353.4ms
+image 86/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Bengal_140_jpg.rf.ea786458c8f7f6aec02290a6fe0f59d4.jpg: 640x640 1 Bengal, 352.3ms
+image 87/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Bengal_157_jpg.rf.9f694376a394788c8d8dfba341e646a9.jpg: 640x640 (no detections), 355.2ms
+image 88/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Bengal_167_jpg.rf.57d25c2e99b30c20a703829fb8a692ff.jpg: 640x640 1 Bengal, 349.5ms
+image 89/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Bengal_179_jpg.rf.5fed799887701b1c98c87c7f8f2e5c17.jpg: 640x640 1 Bengal, 352.0ms
+image 90/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Bengal_192_jpg.rf.a2608f9db272d997a372d97b26894ecc.jpg: 640x640 1 Bengal, 362.9ms
+image 91/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Bengal_196_jpg.rf.c1dcd2d41d6b8050d3c3c84fde9d942d.jpg: 640x640 1 Bengal, 352.2ms
+image 92/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Bengal_198_jpg.rf.01abd67f6a289058a450d521d6c339fd.jpg: 640x640 1 Bengal, 394.9ms
+image 93/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Bengal_204_jpg.rf.40b28d24ffda35f4a2f5d1bdb1f0647a.jpg: 640x640 1 American Bobtail, 358.8ms
+image 94/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Bengal_207_jpg.rf.c4b4c77de08c0a878da315f2e993b3f9.jpg: 640x640 1 Bengal, 366.5ms
+image 95/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Bengal_228_jpg.rf.d662f039fd9b2548587ffc91feffeeae.jpg: 640x640 1 Bengal, 362.1ms
+image 96/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Bengal_254_jpg.rf.9dce482272dec88547ea7d1e365141f0.jpg: 640x640 1 Bengal, 347.6ms
+image 97/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Bengal_260_jpg.rf.45517c709b775cb5a2862b4b5a0acccc.jpg: 640x640 1 Toyger, 357.8ms
+image 98/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Bengal_267_jpg.rf.f841476f6b71a7845269ebaf270574be.jpg: 640x640 1 Bengal, 356.5ms
+image 99/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Bengal_271_jpg.rf.ac9f7d59465fbd4481d36121d01ee048.jpg: 640x640 1 Bengal, 354.6ms
+image 100/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Bengal_296_jpg.rf.87efb61bc886f6a54d20711e96514a73.jpg: 640x640 1 Bengal, 348.1ms
+image 101/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Bengal_297_jpg.rf.090df91636a945a84a8acd2a5fb1808f.jpg: 640x640 1 Bengal, 367.7ms
+image 102/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Bengal_2_jpg.rf.c93a3892c9d3e43ec385e1c9cc6f5689.jpg: 640x640 1 Savannah, 353.9ms
+image 103/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Bengal_310_jpg.rf.1829da8642082dcfdd2f572e54f07004.jpg: 640x640 1 Bengal, 352.6ms
+image 104/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Bengal_311_jpg.rf.ac93960e9a31c72e251b99e6f42ad453.jpg: 640x640 1 Bengal, 352.6ms
+image 105/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Bengal_313_jpg.rf.820cc616bf7bb62e45b13b918e3e13d8.jpg: 640x640 1 Bengal, 362.3ms
+image 106/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Bengal_319_jpg.rf.26a173af474763beb201d4a0bf788094.jpg: 640x640 1 Bengal, 359.3ms
+image 107/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Bengal_323_jpg.rf.2c3173095b765592168621400b239019.jpg: 640x640 1 Bengal, 346.7ms
+image 108/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Bengal_337_jpg.rf.68a2c7fd97c2dc7a5ace6aafea60ecf3.jpg: 640x640 1 Bengal, 351.4ms
+image 109/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Bengal_37_jpg.rf.26eb553e571300eb3f7f7b3ab93f5aec.jpg: 640x640 1 Bengal, 363.1ms
+image 110/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Bengal_43_jpg.rf.679cef094d67ed7bd6ef240db9877278.jpg: 640x640 1 Bengal, 350.5ms
+image 111/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Bengal_47_jpg.rf.10cbe79752ab3dddfe60c54d86561d26.jpg: 640x640 1 Bengal, 377.1ms
+image 112/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Bengal_50_jpg.rf.49ab47ed5c9977381e16f6ab328267e8.jpg: 640x640 1 Bengal, 381.7ms
+image 113/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Bengal_66_jpg.rf.464c4679734174108580785081f2b84f.jpg: 640x640 1 Bengal, 354.0ms
+image 114/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Bengal_94_jpg.rf.83a2e8625193c922582c9e24b7272c49.jpg: 640x640 1 Toyger, 354.4ms
+image 115/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Bengal_95_jpg.rf.3538ac5a4b0b93360feba601151de877.jpg: 640x640 1 Bengal, 361.2ms
+image 116/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Bengal_98_jpg.rf.7c176f5a67110614edcd89e32a58873d.jpg: 640x640 1 Bengal, 349.8ms
+image 117/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Birman_112_jpg.rf.5c22d2027d34a5ac09dacbdf9068c0e0.jpg: 640x640 1 Birman, 353.8ms
+image 118/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Birman_117_jpg.rf.847abe0186af9c4e2a22e7a7178e4c24.jpg: 640x640 1 Birman, 349.5ms
+image 119/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Birman_119_jpg.rf.4a45cbab4d4b7e368287139916fd5e40.jpg: 640x640 1 Birman, 357.5ms
+image 120/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Birman_126_jpg.rf.8f046ad049a429303eb26ec0671a3e2d.jpg: 640x640 1 Birman, 356.9ms
+image 121/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Birman_143_jpg.rf.2035732919e3cddd52380a2705baabfd.jpg: 640x640 1 Birman, 347.6ms
+image 122/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Birman_144_jpg.rf.c3b315703b883a0605050cd2e6cdd0da.jpg: 640x640 1 Birman, 358.2ms
+image 123/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Birman_146_jpg.rf.2f443e45745f404ac9be3cfc2a47b458.jpg: 640x640 1 Birman, 366.8ms
+image 124/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Birman_157_jpg.rf.9e12ce9dde7666f6ed4e5b0ea96410f3.jpg: 640x640 1 Birman, 352.6ms
+image 125/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Birman_165_jpg.rf.9022870dd0cead898b91dba4f2f56a87.jpg: 640x640 1 Birman, 356.1ms
+image 126/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Birman_174_jpg.rf.f7c10df9784d0f97475e8154e660760d.jpg: 640x640 1 Birman, 353.0ms
+image 127/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Birman_184_jpg.rf.5558ed87926df6cff7aa9373f0061c2e.jpg: 640x640 1 Birman, 365.5ms
+image 128/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Birman_198_jpg.rf.c43cbea3b1da63fd4f58e2b7b87106de.jpg: 640x640 1 Siamese, 353.5ms
+image 129/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Birman_204_jpg.rf.fe18f33cc2e972e47203e23e6251e077.jpg: 640x640 1 Birman, 1 Siamese, 356.0ms
+image 130/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Birman_212_jpg.rf.392b79367d0776b609789f269c3d486a.jpg: 640x640 1 Birman, 355.7ms
+image 131/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Birman_221_jpg.rf.75d9db8dc3438eb39a092b2dfae8d418.jpg: 640x640 1 Birman, 1 Ragdoll, 349.6ms
+image 132/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Birman_225_jpg.rf.ca02ca8da4bc258a17dffb55ff5758ea.jpg: 640x640 1 Birman, 350.2ms
+image 133/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Birman_240_jpg.rf.b4098ae2d1274bd8b4f807a2e7a425b6.jpg: 640x640 1 Birman, 357.3ms
+image 134/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Birman_259_jpg.rf.6a55b8b8b850fc6db5afdb96deac834e.jpg: 640x640 1 Birman, 356.6ms
+image 135/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Birman_26_jpg.rf.a96997bcae65877274b5fc3b07479506.jpg: 640x640 1 Birman, 354.2ms
+image 136/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Birman_27_jpg.rf.5e41b0e2f4361acc804f2416342ba08c.jpg: 640x640 1 Birman, 363.7ms
+image 137/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Birman_292_jpg.rf.b082cc20f7a7b72c54a9871e43fdbeb6.jpg: 640x640 1 Ragdoll, 356.7ms
+image 138/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Birman_313_jpg.rf.0de7dae6ac405cc90ed75711abd60cd5.jpg: 640x640 1 Birman, 352.6ms
+image 139/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Birman_31_jpg.rf.d584e2c9415d0b3d278f865256c49f22.jpg: 640x640 1 Birman, 352.1ms
+image 140/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Birman_342_jpg.rf.4e95f1a4bda8fffc21dc8f989986b8ee.jpg: 640x640 1 Ragdoll, 362.0ms
+image 141/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Birman_348_jpg.rf.e54aa13aae68fc21925feedf9cfec571.jpg: 640x640 1 Birman, 353.6ms
+image 142/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Birman_42_jpg.rf.5cd1d6de680709f5b3d26d284d5896bc.jpg: 640x640 1 Birman, 348.2ms
+image 143/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Birman_56_jpg.rf.05d02ee53c81ee64454e20f916b1224f.jpg: 640x640 1 Birman, 362.1ms
+image 144/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Birman_5_jpg.rf.9c22e4b65eef7597fd59590059cda352.jpg: 640x640 1 Birman, 353.2ms
+image 145/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Birman_67_jpg.rf.079bc045371bac430638a2b749f8bf85.jpg: 640x640 1 Birman, 360.8ms
+image 146/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Birman_70_jpg.rf.a436b97c1a2f26eba6ac3d5922d8a99b.jpg: 640x640 1 Birman, 350.1ms
+image 147/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Birman_74_jpg.rf.9a778ed62517a41c69115ce0b4bc1c14.jpg: 640x640 1 Birman, 355.9ms
+image 148/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Birman_75_jpg.rf.94b493f77f2b8c0312aa742d245ced99.jpg: 640x640 1 Birman, 356.7ms
+image 149/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Birman_81_jpg.rf.da5ece6fbf3c50d4a933335823eaaf2f.jpg: 640x640 1 Birman, 352.8ms
+image 150/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Birman_90_jpg.rf.0caf04e426ac8f56613a136d97b09fe1.jpg: 640x640 1 Birman, 397.9ms
+image 151/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Birman_9_jpg.rf.a6fae4ba05401bdd18c09c4e8badea9f.jpg: 640x640 1 Birman, 354.6ms
+image 152/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Bombay_110_jpg.rf.451467b75bb2e4f54b641a023402aab5.jpg: 640x640 1 Bombay, 359.9ms
+image 153/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Bombay_118_jpg.rf.7fee17b03fcbbbeb504941e7c3d295a9.jpg: 640x640 1 Bombay, 356.7ms
+image 154/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Bombay_133_jpg.rf.d7a68fc95331ef07159215be6041223b.jpg: 640x640 1 Bombay, 356.5ms
+image 155/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Bombay_135_jpg.rf.1e9a1e00f15b8bd69276326e29aa99bf.jpg: 640x640 1 Bombay, 354.5ms
+image 156/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Bombay_138_jpg.rf.f12403bedc4b6a47c2045d62fca29e45.jpg: 640x640 1 Bombay, 358.8ms
+image 157/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Bombay_146_jpg.rf.d2a9cc04122649c26c42509075fa8844.jpg: 640x640 1 Bombay, 352.4ms
+image 158/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Bombay_161_jpg.rf.994ba454665fd2c71e6bc8be9bc33bb8.jpg: 640x640 1 Bombay, 359.2ms
+image 159/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Bombay_169_jpg.rf.e444a3477e95187f7f4c9e7afe33d293.jpg: 640x640 1 Bombay, 350.6ms
+image 160/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Bombay_177_jpg.rf.0f8710ef8f48558c17ee21c58f65f251.jpg: 640x640 1 Bombay, 349.9ms
+image 161/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Bombay_178_jpg.rf.5184ec9d03285cb52ac2d6e0315ef43f.jpg: 640x640 1 Bombay, 361.7ms
+image 162/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Bombay_189_jpg.rf.318baccf502eaf2ef0cfb623cbe9ed3c.jpg: 640x640 1 Bombay, 355.6ms
+image 163/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Bombay_18_jpg.rf.cc2c457b9ef8b7f7353cd782809fc071.jpg: 640x640 1 Bombay, 355.1ms
+image 164/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Bombay_207_jpg.rf.4f3e03792a761c8e6cdc348ab96a88c4.jpg: 640x640 1 Bombay, 355.3ms
+image 165/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Bombay_212_jpg.rf.fdb303afe8531dce240d4847a3dd0864.jpg: 640x640 1 Bombay, 355.9ms
+image 166/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Bombay_236_jpg.rf.f5a62e6f9a02b822918ec0c2e7952a55.jpg: 640x640 1 Lykoi, 355.1ms
+image 167/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Bombay_243_jpg.rf.c9649f06b7ebb9f072a94b57e9be0ad3.jpg: 640x640 1 Bombay, 356.1ms
+image 168/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Bombay_257_jpg.rf.a6f02c56e2aa677ac742625b35e213f0.jpg: 640x640 1 Bombay, 358.9ms
+image 169/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Bombay_259_jpg.rf.03f73c5254eff82cb5919534fce18d9e.jpg: 640x640 1 Bombay, 354.2ms
+image 170/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Bombay_260_jpg.rf.fbc7f91ef32cd6c9f5be3fc82b6a4eb8.jpg: 640x640 2 Bombays, 357.4ms
+image 171/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Bombay_262_jpg.rf.b47c93d9bea3c362f4a92bab8018950c.jpg: 640x640 1 Bombay, 351.7ms
+image 172/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Bombay_275_jpg.rf.12c33f045ab559ea50491b7b22e55919.jpg: 640x640 1 Bombay, 353.9ms
+image 173/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Bombay_276_jpg.rf.e5884713255b157cd35745718719b916.jpg: 640x640 1 Bombay, 361.4ms
+image 174/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Bombay_27_jpg.rf.2728986946608f0c0955f2bd2c0608f3.jpg: 640x640 1 Bombay, 360.0ms
+image 175/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Bombay_315_jpg.rf.2af37be06e462bcad14e377dec7201bb.jpg: 640x640 1 Bombay, 356.1ms
+image 176/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Bombay_3_jpg.rf.f186c97db88c695bbb8566ced9b08c51.jpg: 640x640 1 Bombay, 358.9ms
+image 177/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Bombay_40_jpg.rf.4b85567129878ac6b490bc4a73b80a4d.jpg: 640x640 1 Bombay, 364.2ms
+image 178/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Bombay_50_jpg.rf.5b7b572c94fd66f7b18f9cd3cdad6bb8.jpg: 640x640 1 American Bobtail, 1 Bombay, 375.0ms
+image 179/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Bombay_70_jpg.rf.ebf4128ecdbaf56fc442d5f7dbb377ef.jpg: 640x640 1 Bombay, 353.1ms
+image 180/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Bombay_76_jpg.rf.824eeac3e01c91f467d605f288ca4717.jpg: 640x640 1 American Bobtail, 360.1ms
+image 181/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Bombay_77_jpg.rf.c3c7762a827287230d315d275482a326.jpg: 640x640 1 Bombay, 352.2ms
+image 182/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Bombay_82_jpg.rf.c5c13cd8bd07bdeb6f96bf34e242f952.jpg: 640x640 1 Bombay, 352.7ms
+image 183/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Bombay_86_jpg.rf.3f29f60ae59434c1c7db91d8a031e2a9.jpg: 640x640 1 Bombay, 358.5ms
+image 184/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Bombay_8_jpg.rf.88f6dd1ad3e78829b209c0cfc1b24ec7.jpg: 640x640 1 Siamese, 351.8ms
+image 185/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\British_Shorthair_103_jpg.rf.e71dfadc9c3b53049b932816e85e2b91.jpg: 640x640 1 British Shorthair, 358.2ms
+image 186/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\British_Shorthair_116_jpg.rf.3db7590a57ec6acd07e08679fa7edabd.jpg: 640x640 1 British Shorthair, 360.6ms
+image 187/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\British_Shorthair_121_jpg.rf.35eccb2573f2aad24868d903d034a504.jpg: 640x640 1 British Shorthair, 357.1ms
+image 188/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\British_Shorthair_126_jpg.rf.d59587f80b9d34ceecd2e0c47922aa66.jpg: 640x640 1 British Shorthair, 363.2ms
+image 189/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\British_Shorthair_128_jpg.rf.ccdbda12810f6a827d6e64775aa0d92b.jpg: 640x640 1 British Shorthair, 365.3ms
+image 190/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\British_Shorthair_140_jpg.rf.38257c1a4d2b5872902687112c24b411.jpg: 640x640 1 British Shorthair, 369.3ms
+image 191/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\British_Shorthair_154_jpg.rf.d3b04c62b91e0b7f2465194ab2bc8189.jpg: 640x640 1 British Shorthair, 367.0ms
+image 192/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\British_Shorthair_169_jpg.rf.8de0444c98e3b76e9265179da2cd2e85.jpg: 640x640 1 British Shorthair, 370.1ms
+image 193/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\British_Shorthair_17_jpg.rf.8776ef618754b96d14e4b065a9d2f6e5.jpg: 640x640 1 British Shorthair, 355.1ms
+image 194/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\British_Shorthair_180_jpg.rf.5f16130835bb82ada8770909740830d0.jpg: 640x640 1 British Shorthair, 360.7ms
+image 195/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\British_Shorthair_195_jpg.rf.efbc1bb803e5d1ee56b255e6a98fb9b9.jpg: 640x640 1 American Bobtail, 360.9ms
+image 196/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\British_Shorthair_204_jpg.rf.148c599a5dd4f262362909aa05ac35d6.jpg: 640x640 (no detections), 358.3ms
+image 197/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\British_Shorthair_219_jpg.rf.6d6cc70cc67b6cdfb0c73eadec0768e1.jpg: 640x640 1 British Shorthair, 351.6ms
+image 198/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\British_Shorthair_221_jpg.rf.4f52294337d03f7c3eef96839a8e52a2.jpg: 640x640 1 British Shorthair, 362.9ms
+image 199/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\British_Shorthair_243_jpg.rf.920d7de63bdcd21f17885d809cf89ef4.jpg: 640x640 1 Bengal, 358.7ms
+image 200/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\British_Shorthair_247_jpg.rf.58460ce1925d5bf8e090ecb273f81b6d.jpg: 640x640 1 British Shorthair, 368.1ms
+image 201/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\British_Shorthair_24_jpg.rf.cf5084e6076f7a9af33d98b78d6e014e.jpg: 640x640 1 British Shorthair, 363.0ms
+image 202/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\British_Shorthair_262_jpg.rf.622c5d7e018efbbe257ea76d32719fda.jpg: 640x640 1 British Shorthair, 408.8ms
+image 203/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\British_Shorthair_266_jpg.rf.3326f012d240f690987216b9c92256a9.jpg: 640x640 1 British Shorthair, 356.2ms
+image 204/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\British_Shorthair_267_jpg.rf.6c9c7a6bdd286730c4562c5baeb7a62c.jpg: 640x640 1 British Shorthair, 351.6ms
+image 205/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\British_Shorthair_27_jpg.rf.1c1a744be3fc44d61368200366a74d24.jpg: 640x640 1 British Shorthair, 357.6ms
+image 206/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\British_Shorthair_30_jpg.rf.b28279a2529cfdf1bce77c19b6b57f1d.jpg: 640x640 1 British Shorthair, 358.4ms
+image 207/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\British_Shorthair_58_jpg.rf.029d54edd962cf668cb7ce64e6ac742d.jpg: 640x640 1 Oriental, 366.9ms
+image 208/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\British_Shorthair_73_jpg.rf.9c3a985e11508116381196f8de42d6b7.jpg: 640x640 1 British Shorthair, 354.1ms
+image 209/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\British_Shorthair_74_jpg.rf.ce9713af4bc53390191dd05d76458954.jpg: 640x640 1 British Shorthair, 357.6ms
+image 210/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\British_Shorthair_84_jpg.rf.bff77323122b692ad69d328ab6d38906.jpg: 640x640 1 British Shorthair, 357.0ms
+image 211/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\British_Shorthair_9_jpg.rf.1c3c23865d358a98e5aefde687f56920.jpg: 640x640 1 British Shorthair, 362.2ms
+image 212/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Cornish_Rex_102_webp.rf.e4af632e8e6109059fb2b64ae0978f73.jpg: 640x640 1 Cornish Rex, 1 Oriental, 351.6ms
+image 213/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Cornish_Rex_103_jpg.rf.814c0777cca01aee19c38fa30e5627d6.jpg: 640x640 1 Cornish Rex, 360.7ms
+image 214/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Cornish_Rex_139_webp.rf.e9b4cfc825dacd4e4fd3da7f9311f273.jpg: 640x640 (no detections), 355.6ms
+image 215/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Cornish_Rex_157_webp.rf.0e58d3e7d0f31f432412c39b0f7bbc44.jpg: 640x640 1 Cornish Rex, 356.0ms
+image 216/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Cornish_Rex_15_webp.rf.cf0fff6b677ba0a321265123310a7541.jpg: 640x640 1 Cornish Rex, 1 Sphynx, 355.2ms
+image 217/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Cornish_Rex_160_webp.rf.96246d04ca4aee6d3c339f9b1e1fa4f6.jpg: 640x640 2 Cornish Rexs, 356.7ms
+image 218/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Cornish_Rex_163_jpeg.rf.4e253dd838840d019e780bfd8c418a34.jpg: 640x640 1 Cornish Rex, 357.2ms
+image 219/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Cornish_Rex_178_jpg.rf.75496ca96383cf043df53ed99d98a2c9.jpg: 640x640 1 Cornish Rex, 350.6ms
+image 220/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Cornish_Rex_181_webp.rf.05e6d3eeef1c0becbefe4671ffe6689d.jpg: 640x640 1 Cornish Rex, 356.8ms
+image 221/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Cornish_Rex_187_jpg.rf.3a13091fb03a59754c3280bdf742645e.jpg: 640x640 1 Sphynx, 352.4ms
+image 222/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Cornish_Rex_20_jpg.rf.391317920886fb4be06c98155a3834b0.jpg: 640x640 1 Cornish Rex, 360.6ms
+image 223/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Cornish_Rex_219_jpg.rf.db47c3b13b54a6dfb6a066b943663333.jpg: 640x640 1 Cornish Rex, 379.0ms
+image 224/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Cornish_Rex_225_jpg.rf.4bae30efb1b554530638641397e2f79b.jpg: 640x640 2 Cornish Rexs, 380.4ms
+image 225/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Cornish_Rex_226_jpg.rf.44a5a72a19e77562f18562dea16070c2.jpg: 640x640 1 Tuxedo, 357.4ms
+image 226/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Cornish_Rex_22_jpg.rf.212b2e2fb49fe9c51aad3cea82be25c4.jpg: 640x640 2 Cornish Rexs, 355.9ms
+image 227/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Cornish_Rex_244_jpg.rf.c6fa612f9cff10442662ae4ce186f520.jpg: 640x640 1 Cornish Rex, 360.1ms
+image 228/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Cornish_Rex_257_jpg.rf.0f07cf4177b221dfdb98e01cd7f37f76.jpg: 640x640 1 Cornish Rex, 358.7ms
+image 229/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Cornish_Rex_258_jpg.rf.3353d6fd4de3a5e43e7844114dcfda72.jpg: 640x640 1 Cornish Rex, 353.8ms
+image 230/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Cornish_Rex_267_jpg.rf.de1fcffdc2ac55b1f8ea4276b46dcbd0.jpg: 640x640 1 Oriental, 357.1ms
+image 231/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Cornish_Rex_271_jpg.rf.50b655b6bca5b27bbfa69d65d5ce8661.jpg: 640x640 1 Cornish Rex, 1 Oriental, 361.4ms
+image 232/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Cornish_Rex_276_jpg.rf.cc30b3fabc8fdb4957377ce76626f7a7.jpg: 640x640 1 American Bobtail, 359.8ms
+image 233/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Cornish_Rex_295_jpg.rf.d9833ae1ab7770f98da93e0d61c353cd.jpg: 640x640 2 Cornish Rexs, 361.7ms
+image 234/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Cornish_Rex_297_jpg.rf.9aae6872b17345fa2f100c06721fdd91.jpg: 640x640 1 Sphynx, 377.5ms
+image 235/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Cornish_Rex_31_jpg.rf.6da3577e64ddbc7d201fc5fdc10b3bca.jpg: 640x640 1 Cornish Rex, 355.8ms
+image 236/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Cornish_Rex_3_jpg.rf.3179819b5f0081d8b64f70c5490f6090.jpg: 640x640 1 Cornish Rex, 353.6ms
+image 237/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Cornish_Rex_48_jpg.rf.8c956237f3917eb3b0d2617b94ea50eb.jpg: 640x640 1 Cornish Rex, 352.9ms
+image 238/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Cornish_Rex_64_jpg.rf.fb061197fdf3a469ddcdaa94312c0048.jpg: 640x640 1 Khao Manee, 362.5ms
+image 239/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Cornish_Rex_68_jpg.rf.4d7bb012cb33c30689fcba2d8af9c4ed.jpg: 640x640 1 Cornish Rex, 357.8ms
+image 240/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Cornish_Rex_80_jpg.rf.afd3430a934f469b411ad9c620ab08d9.jpg: 640x640 1 Cornish Rex, 350.5ms
+image 241/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Cornish_Rex_95_png.rf.16741f7e51145972fdf5f3a18ea268af.jpg: 640x640 1 Cornish Rex, 374.4ms
+image 242/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Egyptian_Mau_100_jpg.rf.fa678c65723a7cb3491646acee486a6c.jpg: 640x640 1 Bengal, 1 Egyptian Mau, 387.3ms
+image 243/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Egyptian_Mau_106_jpg.rf.64db3df92a5602a71c0b6370662a10d9.jpg: 640x640 1 Egyptian Mau, 367.4ms
+image 244/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Egyptian_Mau_113_jpg.rf.e7b1e6aa0a0d96553f6f79dbffaf0e8d.jpg: 640x640 1 Egyptian Mau, 357.9ms
+image 245/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Egyptian_Mau_123_jpg.rf.b9f77118e52780d985eb21a252a7656b.jpg: 640x640 1 Egyptian Mau, 362.7ms
+image 246/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Egyptian_Mau_124_jpg.rf.e18f4c61f9191a33eea72f6d060fdb72.jpg: 640x640 1 Egyptian Mau, 351.4ms
+image 247/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Egyptian_Mau_165_jpg.rf.7f16cddc4c23b5502b38f33f42e3163b.jpg: 640x640 1 Egyptian Mau, 358.9ms
+image 248/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Egyptian_Mau_166_jpg.rf.7b8df3abe789513de4f0e196af2ba887.jpg: 640x640 1 Egyptian Mau, 363.1ms
+image 249/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Egyptian_Mau_180_jpg.rf.4f233a07a535155ed176288e13ee5a29.jpg: 640x640 1 Egyptian Mau, 355.0ms
+image 250/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Egyptian_Mau_183_jpg.rf.112763669696605e9f06745e55fbd0a5.jpg: 640x640 1 Egyptian Mau, 420.0ms
+image 251/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Egyptian_Mau_185_jpg.rf.4e4fb2e53e78956439c242db21306510.jpg: 640x640 1 Egyptian Mau, 429.7ms
+image 252/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Egyptian_Mau_191_jpg.rf.bb7b237c7f8a32e04a4f995ab6e0dcec.jpg: 640x640 1 Egyptian Mau, 406.2ms
+image 253/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Egyptian_Mau_209_jpg.rf.42d48f05dc00b3ac8c871c70704f24ca.jpg: 640x640 1 Egyptian Mau, 367.3ms
+image 254/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Egyptian_Mau_223_jpg.rf.8046aa7fdc978fffde02a841187536ed.jpg: 640x640 1 Egyptian Mau, 398.2ms
+image 255/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Egyptian_Mau_226_jpg.rf.c50249292dd82c4b736bbf360b066a70.jpg: 640x640 1 Egyptian Mau, 437.0ms
+image 256/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Egyptian_Mau_242_jpg.rf.a5f5dc5887f1db98c080d4cf727a86b5.jpg: 640x640 1 Egyptian Mau, 434.8ms
+image 257/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Egyptian_Mau_24_jpg.rf.4cc10520fd0422e439122f382aad99ba.jpg: 640x640 1 Egyptian Mau, 427.3ms
+image 258/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Egyptian_Mau_257_jpg.rf.55d1a86b4c1e2075a84f33d2796bfc38.jpg: 640x640 1 Egyptian Mau, 377.1ms
+image 259/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Egyptian_Mau_36_jpg.rf.fbc38701042d9aaf61bbbca97945b957.jpg: 640x640 1 Egyptian Mau, 375.0ms
+image 260/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Egyptian_Mau_44_jpg.rf.17f820bfb868bff173d59a2b9c990253.jpg: 640x640 1 Egyptian Mau, 406.4ms
+image 261/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Egyptian_Mau_57_jpg.rf.46ae1da1ac877acd461677360fe45b6a.jpg: 640x640 1 Egyptian Mau, 379.0ms
+image 262/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Egyptian_Mau_62_jpg.rf.8d8ae737e862570703bf801d3384ed7d.jpg: 640x640 1 Egyptian Mau, 380.4ms
+image 263/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Egyptian_Mau_75_jpg.rf.e597cf25ba4da7e67df1c5634e60540f.jpg: 640x640 1 Egyptian Mau, 377.4ms
+image 264/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Egyptian_Mau_86_jpg.rf.d9d08d62f7e17a4b40944ca59fe776b6.jpg: 640x640 1 Egyptian Mau, 400.3ms
+image 265/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Egyptian_Mau_90_jpg.rf.49ddd345b9d14ac542ea67247e3de1a0.jpg: 640x640 1 Egyptian Mau, 412.4ms
+image 266/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Egyptian_Mau_93_jpg.rf.5f1443b4e22710a4f9f9dbb0034e45a5.jpg: 640x640 1 Egyptian Mau, 412.3ms
+image 267/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Egyptian_Mau_94_jpg.rf.2747161ba560ff31da0b9a3931cd08b3.jpg: 640x640 1 Egyptian Mau, 408.5ms
+image 268/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Khao_Manee_101_jpg.rf.2f5f264b9992ac05ddb2a6f6fdf8b8c2.jpg: 640x640 1 Khao Manee, 436.0ms
+image 269/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Khao_Manee_102_webp.rf.ccc12493afef39fc31073f6ffedcae2d.jpg: 640x640 1 Khao Manee, 405.3ms
+image 270/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Khao_Manee_117_jpg.rf.375a680ffb5294eb6c21da864e9823f9.jpg: 640x640 1 Khao Manee, 424.5ms
+image 271/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Khao_Manee_127_webp.rf.b7161a12f02829bfa72a5f84d467781d.jpg: 640x640 1 Khao Manee, 372.1ms
+image 272/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Khao_Manee_145_jpg.rf.c92ce05d0a72bcff7aebb26d23c2438d.jpg: 640x640 1 Khao Manee, 379.8ms
+image 273/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Khao_Manee_148_png.rf.6e80b387a6470f5fc87905f9f1073829.jpg: 640x640 1 Khao Manee, 1 Oriental, 375.7ms
+image 274/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Khao_Manee_159_jpg.rf.6a1b2c7d6373fbc3d0d13135e480c611.jpg: 640x640 1 Khao Manee, 393.4ms
+image 275/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Khao_Manee_170_jpg.rf.13434604e970b7b0730971bfcdf3f481.jpg: 640x640 1 Khao Manee, 384.1ms
+image 276/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Khao_Manee_189_webp.rf.acc5bf19729974a1f4baaf6223cd5292.jpg: 640x640 1 Khao Manee, 369.9ms
+image 277/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Khao_Manee_199_jpg.rf.379e4d3d1bff3c2b7fc0b56a92522794.jpg: 640x640 1 Khao Manee, 379.8ms
+image 278/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Khao_Manee_1_webp.rf.2b9006a486b441cdbc9a55eb09c191d8.jpg: 640x640 1 Khao Manee, 379.2ms
+image 279/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Khao_Manee_201_jpg.rf.7a8b6800f9ea5f9e790b663c303d76e5.jpg: 640x640 1 Khao Manee, 388.2ms
+image 280/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Khao_Manee_203_jpg.rf.39984de8e9caf394e36defd5f604ffc2.jpg: 640x640 1 Khao Manee, 378.2ms
+image 281/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Khao_Manee_26_webp.rf.46a426ab3741610eb4a720a06756eee0.jpg: 640x640 1 Khao Manee, 366.8ms
+image 282/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Khao_Manee_62_jpg.rf.b52cd5b4a966a1230f3fc9945352d5ce.jpg: 640x640 1 Khao Manee, 385.6ms
+image 283/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Khao_Manee_66_jpg.rf.7380495aa98223454a6f2fc2a5c1beb4.jpg: 640x640 2 Khao Manees, 375.3ms
+image 284/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Khao_Manee_6_jpg.rf.171c803974c906860705122c560f611a.jpg: 640x640 1 Khao Manee, 409.7ms
+image 285/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Khao_Manee_79_jpg.rf.c41eab6a4e126d4d4ecb360af5ccf8b0.jpg: 640x640 1 Khao Manee, 387.0ms
+image 286/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Khao_Manee_80_jpg.rf.cc1614948bc67d9ba61e6b0503105281.jpg: 640x640 1 Khao Manee, 382.3ms
+image 287/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Khao_Manee_81_jpg.rf.ad9cd231d8ed9dc8f285571f5d3183fb.jpg: 640x640 1 Khao Manee, 376.4ms
+image 288/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Khao_Manee_95_jpg.rf.652395af900acc76d0124f4b21a4e83f.jpg: 640x640 1 Khao Manee, 415.9ms
+image 289/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Lykoi_111_webp.rf.7a22c53f1b5cd78f31a03283ddc2cdcd.jpg: 640x640 1 Lykoi, 392.9ms
+image 290/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Lykoi_114_jpg.rf.10c1fa6a2ae4f10ca512133c9228e0f2.jpg: 640x640 1 Lykoi, 417.1ms
+image 291/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Lykoi_129_jpg.rf.66389f6789af6820ee9f09ce0d4431b0.jpg: 640x640 1 Lykoi, 396.4ms
+image 292/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Lykoi_132_jpg.rf.59eed0ee534c3c1a7fdf584be94b9a40.jpg: 640x640 1 Lykoi, 389.2ms
+image 293/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Lykoi_136_avif.rf.48bba6b058c1c48baf6973e7c5879a9f.jpg: 640x640 1 Lykoi, 385.4ms
+image 294/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Lykoi_142_jpg.rf.ccdcf25b2d959103f3c6d73121a437c1.jpg: 640x640 1 Lykoi, 399.8ms
+image 295/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Lykoi_152_jpg.rf.18fa6b4a1081079c9b9b3876b6da5c57.jpg: 640x640 1 Lykoi, 369.6ms
+image 296/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Lykoi_154_jpg.rf.f3f3c5f7472fbcfe166081e27691c752.jpg: 640x640 1 Lykoi, 373.6ms
+image 297/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Lykoi_159_png.rf.dc7103f73b6210fe52eb4cb55736b369.jpg: 640x640 1 Lykoi, 384.7ms
+image 298/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Lykoi_166_jpg.rf.2cdb9328914f9ebd9a1d79ffe23cf3a9.jpg: 640x640 1 Lykoi, 377.4ms
+image 299/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Lykoi_167_jpg.rf.474238e08e77f9ffe901e2605ee35abb.jpg: 640x640 1 Lykoi, 374.5ms
+image 300/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Lykoi_174_jpg.rf.2efa3ec7eb5113c22097b17e0adbad82.jpg: 640x640 1 Bombay, 1 Sphynx, 374.2ms
+image 301/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Lykoi_184_jpg.rf.b28aba4639174f0f82ef5417b7e03850.jpg: 640x640 1 Lykoi, 409.1ms
+image 302/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Lykoi_188_jpg.rf.fd98866731793c2cdef28c97a7d27749.jpg: 640x640 1 Lykoi, 371.8ms
+image 303/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Lykoi_205_jpg.rf.b19039c97db75195d6a7b1f0dcd71b12.jpg: 640x640 1 Lykoi, 374.4ms
+image 304/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Lykoi_217_jpg.rf.47d377fc40f18446b1c55611b6070183.jpg: 640x640 1 Lykoi, 386.9ms
+image 305/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Lykoi_27_jpg.rf.070a10fd660922183e13ac517f700298.jpg: 640x640 1 Lykoi, 392.0ms
+image 306/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Lykoi_51_jpg.rf.8103f502874538860744e27f33bd50da.jpg: 640x640 1 Lykoi, 395.3ms
+image 307/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Lykoi_72_jpg.rf.9a28344bcfef9ee9ed38605688c778be.jpg: 640x640 1 Lykoi, 382.1ms
+image 308/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Lykoi_77_jpg.rf.e7c79534ceab6403a8656a076748c5bf.jpg: 640x640 1 Lykoi, 393.6ms
+image 309/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Lykoi_81_jpg.rf.e583658895f2bb79a4da9c6451316335.jpg: 640x640 1 Lykoi, 409.0ms
+image 310/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Lykoi_94_jpg.rf.c75860a9eb1befcf48120b82bd5fbbf5.jpg: 640x640 1 Lykoi, 380.6ms
+image 311/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Maine_Coon_109_jpg.rf.ba0523cf604d763d3b011a1c1c444abd.jpg: 640x640 1 American Bobtail, 370.2ms
+image 312/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Maine_Coon_11_jpg.rf.83f66f0781af8a23c3670b78b7aeebe5.jpg: 640x640 1 Maine Coon, 385.9ms
+image 313/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Maine_Coon_122_jpg.rf.32fb4ac215f3c822c26df260a3ff382f.jpg: 640x640 1 Ragdoll, 373.1ms
+image 314/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Maine_Coon_134_jpg.rf.e113fd65815e7bd284bb7bd82ce9a10a.jpg: 640x640 1 Maine Coon, 401.2ms
+image 315/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Maine_Coon_149_jpg.rf.7d9df19ab704b72620db19bbf7a53988.jpg: 640x640 1 Maine Coon, 391.1ms
+image 316/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Maine_Coon_165_jpg.rf.cbd447f4642de8b7cf2f33cbcd281922.jpg: 640x640 1 Maine Coon, 380.5ms
+image 317/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Maine_Coon_176_jpg.rf.00f29c12e32c5c7838d4f046b4ac9328.jpg: 640x640 1 Maine Coon, 368.3ms
+image 318/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Maine_Coon_177_jpg.rf.4985208ead46c12b153cc88ce8a66b49.jpg: 640x640 1 Maine Coon, 374.7ms
+image 319/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Maine_Coon_181_jpg.rf.b458003db7f6c657489ee87c345eacef.jpg: 640x640 1 Maine Coon, 456.2ms
+image 320/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Maine_Coon_182_jpg.rf.9e66625ee478f64284c511cff3a28b70.jpg: 640x640 1 Maine Coon, 390.1ms
+image 321/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Maine_Coon_188_jpg.rf.419679800a3becd0dd490107437c7d15.jpg: 640x640 1 American Bobtail, 369.1ms
+image 322/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Maine_Coon_207_jpg.rf.1b15e49baa77317c5ed5afea27d14700.jpg: 640x640 1 Maine Coon, 370.2ms
+image 323/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Maine_Coon_220_jpg.rf.0f5a23846a21c10decfb64ed8ee7bf5a.jpg: 640x640 1 Maine Coon, 374.1ms
+image 324/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Maine_Coon_223_jpg.rf.049de960d9c8bde27a1ec28cba726bf5.jpg: 640x640 1 Maine Coon, 364.0ms
+image 325/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Maine_Coon_226_jpg.rf.01475d364d9ac49653bb6d199c129c1a.jpg: 640x640 1 Maine Coon, 367.6ms
+image 326/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Maine_Coon_250_jpg.rf.97fac1210c999d9922b143cb864be903.jpg: 640x640 1 Maine Coon, 352.2ms
+image 327/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Maine_Coon_259_jpg.rf.0a8b628986e2298cc23fbf1d9424baa6.jpg: 640x640 1 Maine Coon, 359.8ms
+image 328/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Maine_Coon_260_jpg.rf.9a40bd2cc856e03052e50e800f3e545a.jpg: 640x640 1 Ragdoll, 363.1ms
+image 329/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Maine_Coon_261_jpg.rf.61e2f8e7576d98c4db6f4df16e94f944.jpg: 640x640 1 Maine Coon, 356.0ms
+image 330/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Maine_Coon_272_jpg.rf.217c3f5eea9e95d729a3a7ff6bca02cd.jpg: 640x640 1 Maine Coon, 364.2ms
+image 331/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Maine_Coon_286_jpg.rf.1b0361ebc2860b52f1179850fb1cffc0.jpg: 640x640 1 Maine Coon, 358.5ms
+image 332/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Maine_Coon_296_jpg.rf.6af6d8cdd5696bfe6b8a688f3850f999.jpg: 640x640 1 Maine Coon, 357.9ms
+image 333/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Maine_Coon_300_jpg.rf.7b65fc2458ca5768ed19cfcf7aa00155.jpg: 640x640 1 Maine Coon, 353.0ms
+image 334/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Maine_Coon_307_jpg.rf.3fa48b0d7d92e6e0bcb254a7888249bf.jpg: 640x640 1 Maine Coon, 354.8ms
+image 335/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Maine_Coon_36_jpg.rf.55abd05a51d178884ac8a3e3f90b0836.jpg: 640x640 1 Maine Coon, 360.2ms
+image 336/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Maine_Coon_43_jpg.rf.ba95d5a9bf36116f6e4d04c1d7901239.jpg: 640x640 1 Maine Coon, 365.5ms
+image 337/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Maine_Coon_49_jpg.rf.d8d3be61b541cd667d3e8fc313b89792.jpg: 640x640 1 Maine Coon, 359.6ms
+image 338/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Maine_Coon_52_jpg.rf.5bd461a38c855d055ec81fe56338b702.jpg: 640x640 1 Maine Coon, 357.2ms
+image 339/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Maine_Coon_54_jpg.rf.17700b1f1f6ca47ba89585b0569a1e81.jpg: 640x640 1 Maine Coon, 356.1ms
+image 340/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Maine_Coon_57_jpg.rf.156e6bb9beaa49a994c8639beb849820.jpg: 640x640 1 Maine Coon, 352.1ms
+image 341/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Maine_Coon_67_jpg.rf.30fa9ea5563eb13417f2bde6c7187b91.jpg: 640x640 1 Maine Coon, 358.2ms
+image 342/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Maine_Coon_70_jpg.rf.548e748ecdecab6528b67dc9219bf0fb.jpg: 640x640 1 Maine Coon, 353.4ms
+image 343/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Maine_Coon_90_jpg.rf.c97871d59abc20000496f8a3089e2f78.jpg: 640x640 1 Maine Coon, 375.9ms
+image 344/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Munchkin_102_jpg.rf.0528220af65b66516d82ee0be3018d49.jpg: 640x640 1 Munchkin, 380.7ms
+image 345/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Munchkin_123_jpg.rf.d341652153808f2e82454eb3d57b59d9.jpg: 640x640 1 Munchkin, 362.1ms
+image 346/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Munchkin_127_jpg.rf.c29562622fbba0b888bd8fb37e9eb370.jpg: 640x640 1 Munchkin, 458.7ms
+image 347/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Munchkin_128_png.rf.960ab180350ef61769f261ad6fc17a4a.jpg: 640x640 1 Munchkin, 1 Tuxedo, 357.5ms
+image 348/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Munchkin_133_png.rf.d12508e11f995a4a425c4558cb094102.jpg: 640x640 1 Munchkin, 354.7ms
+image 349/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Munchkin_138_jpg.rf.f9642f92a99ac33e34ec87e704caec28.jpg: 640x640 1 Neva Masquerade, 1 Persian, 363.9ms
+image 350/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Munchkin_149_jpg.rf.230d0ca081f04ce8f71bd6b96ef3481c.jpg: 640x640 1 American Bobtail, 1 Munchkin, 352.4ms
+image 351/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Munchkin_155_webp.rf.bde64d78fc7dc5be73fa40cebd866c48.jpg: 640x640 1 American Bobtail, 1 Munchkin, 372.0ms
+image 352/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Munchkin_158_jpg.rf.d2b292963ccca27b4b405334506be6ab.jpg: 640x640 1 Munchkin, 357.5ms
+image 353/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Munchkin_159_jpg.rf.eb73410f77450ec9357c59df157f2073.jpg: 640x640 1 Bombay, 361.1ms
+image 354/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Munchkin_15_jpg.rf.d520756d53df601e421a832aa2254f4c.jpg: 640x640 1 Munchkin, 353.6ms
+image 355/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Munchkin_183_jpg.rf.c2ea9fcb99c8ea3d541c91cef14a951f.jpg: 640x640 1 Munchkin, 356.7ms
+image 356/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Munchkin_190_jpg.rf.951866e0ab501fbfb04ba8fbca87fa05.jpg: 640x640 1 Munchkin, 363.6ms
+image 357/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Munchkin_197_jpg.rf.bbd1d3492bd24cba90be5d407f3922de.jpg: 640x640 1 Munchkin, 377.8ms
+image 358/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Munchkin_213_jpg.rf.93050c16c3cf1126b1d0aebf027b4e5b.jpg: 640x640 1 Munchkin, 357.3ms
+image 359/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Munchkin_220_jpg.rf.73ebe7aef57f2b9bca25b89e508c5a39.jpg: 640x640 1 Munchkin, 353.7ms
+image 360/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Munchkin_32_avif.rf.16ef6dfebb66810a50b19c33a8b4acb2.jpg: 640x640 1 Munchkin, 360.9ms
+image 361/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Munchkin_41_jpg.rf.50078e6efe8bd642f21f997cec007bea.jpg: 640x640 1 Munchkin, 362.4ms
+image 362/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Munchkin_42_jpg.rf.a735079a2d696e672c0a75d06398d131.jpg: 640x640 1 Munchkin, 356.7ms
+image 363/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Munchkin_48_webp.rf.aba69c5bae996cedc7cc7364d409a8b3.jpg: 640x640 1 Munchkin, 364.6ms
+image 364/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Munchkin_68_jpg.rf.b17a39c493f13468ab61ffeca1943cdf.jpg: 640x640 1 Munchkin, 357.9ms
+image 365/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Munchkin_99_jpg.rf.480e118288252fc10cf8d4a5b4149267.jpg: 640x640 1 Munchkin, 363.9ms
+image 366/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Neva_Masquerade_100_jpg.rf.d80b1f629c106e49a395636505477bdc.jpg: 640x640 1 Neva Masquerade, 371.2ms
+image 367/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Neva_Masquerade_102_jpg.rf.e0210e6b78bd1b573f57d89412ff1bb9.jpg: 640x640 1 Neva Masquerade, 381.6ms
+image 368/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Neva_Masquerade_113_jpg.rf.265110e36021444f82b6b665a8c68ba4.jpg: 640x640 1 Neva Masquerade, 438.5ms
+image 369/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Neva_Masquerade_125_jpg.rf.f9adc787136ee8c130cc8546b1c748b2.jpg: 640x640 1 Neva Masquerade, 378.1ms
+image 370/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Neva_Masquerade_127_jpg.rf.518a6df794fd0dfe268aefbdde422092.jpg: 640x640 1 Neva Masquerade, 358.2ms
+image 371/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Neva_Masquerade_141_jpg.rf.532a6111e28502588d3a93b74fd38331.jpg: 640x640 1 Birman, 355.9ms
+image 372/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Neva_Masquerade_149_jpg.rf.766fd0bb658cff26148a2b7e474f887d.jpg: 640x640 1 Neva Masquerade, 365.4ms
+image 373/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Neva_Masquerade_16_jpg.rf.c70edf6deeaa04a9b0a546b124283e76.jpg: 640x640 1 Neva Masquerade, 358.1ms
+image 374/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Neva_Masquerade_17_webp.rf.81a5c709d9665c1a2cb0f1d9f51b4730.jpg: 640x640 1 Neva Masquerade, 350.6ms
+image 375/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Neva_Masquerade_182_jpg.rf.5ad44447519cfb8b5c496ce2d880270b.jpg: 640x640 1 Neva Masquerade, 359.9ms
+image 376/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Neva_Masquerade_194_jpg.rf.595d82cf79640cf5f95b6b66665a954d.jpg: 640x640 1 Neva Masquerade, 352.9ms
+image 377/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Neva_Masquerade_1_webp.rf.581a8edd63d21533756ae0eef1cfccb7.jpg: 640x640 1 Neva Masquerade, 357.6ms
+image 378/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Neva_Masquerade_206_jpg.rf.a5d02ce2a99f8b836cc4043e1e1d8b46.jpg: 640x640 1 Neva Masquerade, 407.5ms
+image 379/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Neva_Masquerade_211_jpg.rf.c296b4224471b7fe835a575cf70f36cb.jpg: 640x640 2 Neva Masquerades, 360.3ms
+image 380/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Neva_Masquerade_219_jpg.rf.6abf923723636739d782c455678414d0.jpg: 640x640 1 Neva Masquerade, 360.1ms
+image 381/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Neva_Masquerade_21_jpg.rf.03f1396a1565af39115a24842d6d01a8.jpg: 640x640 1 Neva Masquerade, 357.2ms
+image 382/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Neva_Masquerade_220_jpg.rf.e744a3f9f4b194e207c4e139ce98482e.jpg: 640x640 1 Neva Masquerade, 351.6ms
+image 383/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Neva_Masquerade_222_jpg.rf.240fd806e47f5e8999b2de2bda27e8dd.jpg: 640x640 1 Neva Masquerade, 361.3ms
+image 384/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Neva_Masquerade_225_jpg.rf.dc81bd64fdcbe3235b0fee0f8183faa6.jpg: 640x640 1 Neva Masquerade, 353.4ms
+image 385/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Neva_Masquerade_270_jpg.rf.a6420fd71cb77a3db832130419239921.jpg: 640x640 1 Birman, 357.3ms
+image 386/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Neva_Masquerade_50_jpg.rf.0f3bc12d72443e07c91e20d25758b18c.jpg: 640x640 1 Neva Masquerade, 364.2ms
+image 387/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Neva_Masquerade_52_jpg.rf.680f563826dced203a3117a888ac472b.jpg: 640x640 1 Neva Masquerade, 355.6ms
+image 388/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Neva_Masquerade_56_jpg.rf.63e61e248c7ac108cb0c03a34708cd48.jpg: 640x640 1 Neva Masquerade, 359.5ms
+image 389/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Neva_Masquerade_59_jpg.rf.16a891f9f17df7ce2a25d3be31b26dab.jpg: 640x640 1 Neva Masquerade, 361.9ms
+image 390/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Neva_Masquerade_60_jpg.rf.6f930cf2be6b51417202a57af03d0747.jpg: 640x640 1 Neva Masquerade, 357.6ms
+image 391/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Neva_Masquerade_71_jpg.rf.c876bc2b55ad42418604bb3efe177a44.jpg: 640x640 1 Neva Masquerade, 358.6ms
+image 392/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Neva_Masquerade_90_jpg.rf.651ee86819add5d08323e4b0ab1a9f7c.jpg: 640x640 1 Neva Masquerade, 359.2ms
+image 393/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Neva_Masquerade_92_jpg.rf.ca22b4b92e7d7f405082f088224b6aaa.jpg: 640x640 1 Neva Masquerade, 438.7ms
+image 394/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Neva_Masquerade_94_jpg.rf.b7300d8cc0df24942e50e1784e506059.jpg: 640x640 1 Neva Masquerade, 378.3ms
+image 395/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Neva_Masquerade_95_jpg.rf.2956b77bb1eef46dcd556cd54bcb6175.jpg: 640x640 1 Neva Masquerade, 377.0ms
+image 396/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Oriental_119_webp.rf.741239b77227bc5f26898234d0e70c5a.jpg: 640x640 1 Oriental, 374.7ms
+image 397/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Oriental_11_webp.rf.44eb2b7e48e896dc30f1c5ddecf8b6eb.jpg: 640x640 1 Oriental, 378.9ms
+image 398/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Oriental_153_jpg.rf.85f5d9c74a54874b069545f3ca52c5b0.jpg: 640x640 1 Oriental, 385.8ms
+image 399/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Oriental_163_jpg.rf.fce8b8a5e53a2d98bccd0f004a6b34b8.jpg: 640x640 1 Abyssinian, 376.1ms
+image 400/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Oriental_168_jpg.rf.625e3a7b6e2d2e2714c41a675b9bed92.jpg: 640x640 1 Oriental, 386.8ms
+image 401/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Oriental_177_jpg.rf.5181c710033b88999de3e39fdc16b6da.jpg: 640x640 1 Savannah, 363.7ms
+image 402/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Oriental_23_jpg.rf.ccab011b347f1d2f2355c5910ea5a94c.jpg: 640x640 1 Oriental, 361.1ms
+image 403/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Oriental_25_jpg.rf.ed055607f966354603925b73255c9e65.jpg: 640x640 1 Oriental, 359.4ms
+image 404/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Oriental_30_jpg.rf.efe0af34314d7e6ef9a836a0b287c434.jpg: 640x640 1 Oriental, 368.3ms
+image 405/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Oriental_40_webp.rf.6f4deeff8479c43e4e02cc3a565d7fac.jpg: 640x640 1 Oriental, 358.2ms
+image 406/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Oriental_43_webp.rf.9cb67e02da1a3f1cd4a1ed11e858852a.jpg: 640x640 1 Oriental, 362.4ms
+image 407/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Oriental_48_jpg.rf.ea24e87fe284488914f35b6d9b43bfd6.jpg: 640x640 1 Oriental, 358.3ms
+image 408/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Oriental_50_webp.rf.33dd88626d4f56c93a8158af7f763762.jpg: 640x640 1 Oriental, 378.5ms
+image 409/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Oriental_63_jpg.rf.1d2bc30bb10521793509c5d1d9eeef8a.jpg: 640x640 1 Abyssinian, 1 Oriental, 366.7ms
+image 410/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Oriental_64_jpg.rf.c7d300096ad8a7ca58952c4569c5619d.jpg: 640x640 1 Oriental, 385.8ms
+image 411/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Oriental_65_webp.rf.682987fd96a1efa60605e3c34ef599e0.jpg: 640x640 1 Oriental, 354.5ms
+image 412/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Oriental_67_jpg.rf.697c85a159fe0770da116863a621bd85.jpg: 640x640 1 Oriental, 355.7ms
+image 413/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Oriental_76_jpg.rf.693d9608cec6afc20097d1f6b8e99aef.jpg: 640x640 1 Savannah, 1 Toyger, 362.6ms
+image 414/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Oriental_85_jpg.rf.a0d58396e3c918d24e6531d043117fd5.jpg: 640x640 1 Oriental, 354.7ms
+image 415/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Oriental_92_webp.rf.7a00d45778785c7d5ed21e43982025bf.jpg: 640x640 1 Oriental, 356.6ms
+image 416/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Persian_103_jpg.rf.3d068f22a1fda902b7f04ab9df74bf2c.jpg: 640x640 1 Persian, 354.9ms
+image 417/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Persian_10_jpg.rf.50594805daddb3bac5a77481e430ac2d.jpg: 640x640 1 Persian, 370.0ms
+image 418/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Persian_125_jpg.rf.0964a3ebe65c558f821e76516bf3f12e.jpg: 640x640 1 Persian, 352.5ms
+image 419/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Persian_126_jpg.rf.4f35afd13f057cd2277f9465a42a6bab.jpg: 640x640 1 Persian, 353.0ms
+image 420/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Persian_135_jpg.rf.8fc3cb442b69c5a918f9e6d042896b93.jpg: 640x640 1 Persian, 360.1ms
+image 421/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Persian_137_jpg.rf.28e41779cb23565fd8a58d6080aac044.jpg: 640x640 1 Persian, 367.3ms
+image 422/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Persian_154_jpg.rf.1e65f4c3561d469b92c69c5c45b99a45.jpg: 640x640 1 Persian, 356.7ms
+image 423/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Persian_164_jpg.rf.7f3632a612a9fa0bbd20c18467248386.jpg: 640x640 1 Persian, 353.9ms
+image 424/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Persian_170_jpg.rf.bff1f6c54e44165ce40db96abd015395.jpg: 640x640 1 Persian, 358.7ms
+image 425/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Persian_171_jpg.rf.ac5ba7e1908044a4f2b0da0ef7c4d5a9.jpg: 640x640 1 Persian, 373.3ms
+image 426/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Persian_18_jpg.rf.e5c2415afcd8cff7c69f00ff1035a4b6.jpg: 640x640 1 Persian, 355.9ms
+image 427/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Persian_204_jpg.rf.25cd8f3f9b97ee4b1cd99a526ad88194.jpg: 640x640 1 Persian, 355.7ms
+image 428/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Persian_210_jpg.rf.4f4fc39690b87f3e6e5d48d1cec1fb01.jpg: 640x640 1 Persian, 354.4ms
+image 429/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Persian_218_jpg.rf.0dbec269b098e9a28ffacc73c4923ac4.jpg: 640x640 1 Persian, 362.8ms
+image 430/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Persian_224_jpg.rf.db6107cf407291b47ec7cc94c0a10fe9.jpg: 640x640 1 Persian, 360.0ms
+image 431/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Persian_253_jpg.rf.a3094e2bbcfe5f2752d929608db7aae8.jpg: 640x640 1 Persian, 361.7ms
+image 432/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Persian_255_jpg.rf.aae56ed69c1735212ad60211e58ad5aa.jpg: 640x640 1 Persian, 366.6ms
+image 433/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Persian_264_jpg.rf.cf8da38e46d08b8b866d74be8dcf3633.jpg: 640x640 1 Persian, 354.6ms
+image 434/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Persian_273_jpg.rf.6a09e53800e0a25d3cb4753298193637.jpg: 640x640 1 Persian, 357.9ms
+image 435/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Persian_27_jpg.rf.5b12e3bfdc8ff88b598e599b68a777be.jpg: 640x640 1 Persian, 359.8ms
+image 436/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Persian_281_jpg.rf.b2effbe78b294182d0f9b6014732f3d7.jpg: 640x640 1 Persian, 351.2ms
+image 437/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Persian_284_jpg.rf.e7bfb8afba19a3d9ab20f6aeb68e5b4e.jpg: 640x640 1 Birman, 401.2ms
+image 438/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Persian_285_jpg.rf.624fd73dfa610d69eba5655df01dc2f4.jpg: 640x640 1 Persian, 352.2ms
+image 439/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Persian_286_jpg.rf.1282191f3e08a5acc6aae083997de66a.jpg: 640x640 1 Persian, 364.9ms
+image 440/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Persian_288_jpg.rf.32ba5676ab3b7fd503860aca58771626.jpg: 640x640 1 Persian, 362.2ms
+image 441/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Persian_28_jpg.rf.65ca9c93cc580373d7d3fe1041d3a483.jpg: 640x640 1 Persian, 355.5ms
+image 442/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Persian_31_jpg.rf.603c644fa1ba27ab683ba255f728cbd0.jpg: 640x640 1 Persian, 356.5ms
+image 443/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Persian_37_jpg.rf.30d26da94fe4785e30d0eaf28e080e00.jpg: 640x640 1 Persian, 373.1ms
+image 444/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Persian_45_jpg.rf.76015a7fa984e780ce769dcfec0d0e7d.jpg: 640x640 1 Birman, 351.1ms
+image 445/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Persian_57_jpg.rf.a58355d4d5440c5c408c48e11992e7e8.jpg: 640x640 1 Persian, 372.9ms
+image 446/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Persian_60_jpg.rf.3c0cec9aade63c219241ae039c1ed4be.jpg: 640x640 1 Persian, 362.2ms
+image 447/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Persian_63_jpg.rf.6436f2b4537aed7ec6439d3715fab580.jpg: 640x640 1 Maine Coon, 362.9ms
+image 448/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Ragdoll_115_jpg.rf.a9a59dd3063118361a72a942349ea65e.jpg: 640x640 1 Birman, 358.6ms
+image 449/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Ragdoll_127_jpg.rf.3245ad337e1681bf73eae77abc47ce76.jpg: 640x640 1 Ragdoll, 355.9ms
+image 450/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Ragdoll_130_jpg.rf.656017a34ca702e46d0b39e9fc3bd478.jpg: 640x640 1 Neva Masquerade, 1 Ragdoll, 359.6ms
+image 451/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Ragdoll_157_jpg.rf.fcb06dd796ce2c87dc0a669c81d62ffc.jpg: 640x640 1 Ragdoll, 389.3ms
+image 452/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Ragdoll_162_jpg.rf.b0ef658d9caf9e6035b255955ae6fc58.jpg: 640x640 1 Ragdoll, 388.4ms
+image 453/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Ragdoll_176_jpg.rf.f35182953d2356f7d77f3d143f34d9da.jpg: 640x640 1 Ragdoll, 392.3ms
+image 454/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Ragdoll_186_jpg.rf.e90f51d668bd394ac9254c8795137eed.jpg: 640x640 1 Ragdoll, 358.2ms
+image 455/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Ragdoll_198_jpg.rf.198b12ef5e1a39fa61234ed00068cae7.jpg: 640x640 1 American Bobtail, 1 Ragdoll, 363.4ms
+image 456/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Ragdoll_207_jpg.rf.ebb8901aefaf30ee02a6e7377ed2a3b7.jpg: 640x640 1 Birman, 1 Ragdoll, 351.6ms
+image 457/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Ragdoll_20_jpg.rf.b74288e48ba26c0b10f5c60046bf627d.jpg: 640x640 1 Birman, 361.1ms
+image 458/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Ragdoll_210_jpg.rf.d4564afec4b4fd98ab243fcf4a597ea0.jpg: 640x640 1 Birman, 350.9ms
+image 459/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Ragdoll_223_jpg.rf.e9197b020592d84f06572813f9453ef1.jpg: 640x640 1 Ragdoll, 356.2ms
+image 460/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Ragdoll_228_jpg.rf.f2f2388bdfee7d9d147f4e500e798809.jpg: 640x640 1 Neva Masquerade, 356.6ms
+image 461/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Ragdoll_241_jpg.rf.8c4f6d7f44032043da1f345994866bdc.jpg: 640x640 1 Ragdoll, 362.6ms
+image 462/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Ragdoll_247_jpg.rf.c9674bdff8d3003cb250775e75d2d33f.jpg: 640x640 1 Birman, 361.5ms
+image 463/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Ragdoll_268_jpg.rf.574a88f0dff8385bc9a80fc3a7cb0b59.jpg: 640x640 1 Ragdoll, 360.9ms
+image 464/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Ragdoll_271_jpg.rf.31e86ef68b1ff6d5af158d7a4cb3c189.jpg: 640x640 1 Birman, 361.1ms
+image 465/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Ragdoll_274_jpg.rf.fd685f3a1e144436dbc449e9641c1e09.jpg: 640x640 1 Birman, 357.3ms
+image 466/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Ragdoll_277_jpg.rf.5ab9fde98e25dd889025cfbe8d90b03d.jpg: 640x640 1 Ragdoll, 362.3ms
+image 467/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Ragdoll_286_jpg.rf.a6dba7492875377d00952308a84adf58.jpg: 640x640 1 Maine Coon, 365.2ms
+image 468/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Ragdoll_297_jpg.rf.33390cda5b40b6a154a3d0a7f2b8b6eb.jpg: 640x640 1 Ragdoll, 353.3ms
+image 469/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Ragdoll_299_jpg.rf.ddb6dc4468b6069e3ecb1e3524de3001.jpg: 640x640 1 Ragdoll, 354.0ms
+image 470/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Ragdoll_29_jpg.rf.37e7e59d4421ac280a118ae39575d0cc.jpg: 640x640 1 Ragdoll, 375.8ms
+image 471/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Ragdoll_2_jpg.rf.bfd60e4c3504874b98ba931d1371965f.jpg: 640x640 1 Ragdoll, 393.2ms
+image 472/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Ragdoll_301_jpg.rf.4b33e360f13f2f640ab414f5eb6d446c.jpg: 640x640 1 Birman, 391.2ms
+image 473/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Ragdoll_37_jpg.rf.09f36448527feb87ee100c76755e667e.jpg: 640x640 1 Ragdoll, 382.1ms
+image 474/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Ragdoll_53_jpg.rf.8e1675ea7354d20072e7c13e8d5aa206.jpg: 640x640 1 Ragdoll, 385.1ms
+image 475/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Ragdoll_54_jpg.rf.a2051189b5d0ef6b65ef4e60665e9c24.jpg: 640x640 1 Ragdoll, 389.7ms
+image 476/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Ragdoll_55_jpg.rf.43868cc3bedbb5fc65e195f88444c92c.jpg: 640x640 1 Birman, 1 Ragdoll, 385.4ms
+image 477/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Ragdoll_71_jpg.rf.4d26b140947bef0347af98c5ac40f692.jpg: 640x640 1 Ragdoll, 377.1ms
+image 478/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Ragdoll_84_jpg.rf.a7fe91cfb44b057948c18c6860892e91.jpg: 640x640 1 Birman, 365.0ms
+image 479/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Russian_Blue_127_jpg.rf.e2df2bcbc8ed0221fd5404c961cf6f51.jpg: 640x640 1 Russian Blue, 382.5ms
+image 480/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Russian_Blue_12_jpg.rf.c37842f8c0281ac7d681965688b1084d.jpg: 640x640 1 Russian Blue, 357.3ms
+image 481/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Russian_Blue_138_jpg.rf.081e18b94ca6783395414383f21fd0da.jpg: 640x640 1 Russian Blue, 365.3ms
+image 482/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Russian_Blue_13_jpg.rf.6452b92da481a23c003980a081f12deb.jpg: 640x640 1 Russian Blue, 353.5ms
+image 483/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Russian_Blue_185_jpg.rf.fa12ad342ab02ddb0ed7a7d8317309bc.jpg: 640x640 1 Russian Blue, 355.8ms
+image 484/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Russian_Blue_189_jpg.rf.fb19770c07f31daf9113d9e4c80d6601.jpg: 640x640 1 Russian Blue, 369.7ms
+image 485/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Russian_Blue_190_jpg.rf.420d0ea9af6b7cb101a38ba8c9bfe997.jpg: 640x640 1 Maine Coon, 358.0ms
+image 486/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Russian_Blue_192_jpg.rf.61143a649eefc5da0b26cffdf454a115.jpg: 640x640 1 Russian Blue, 357.6ms
+image 487/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Russian_Blue_195_jpg.rf.11c023aefb2e847e8ee1683f27f23b17.jpg: 640x640 1 Russian Blue, 355.3ms
+image 488/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Russian_Blue_19_jpg.rf.a2121206a68bf18d05585676a32c5c7a.jpg: 640x640 1 Russian Blue, 356.2ms
+image 489/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Russian_Blue_203_jpg.rf.763c600e367e619e6371bc7e5509e4df.jpg: 640x640 1 Russian Blue, 356.1ms
+image 490/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Russian_Blue_204_jpg.rf.9d073b0f5dfa34ed1e9996e73a428077.jpg: 640x640 1 Russian Blue, 357.8ms
+image 491/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Russian_Blue_215_jpg.rf.54a568f3f336919b7e7da9f4a6e4f248.jpg: 640x640 1 Russian Blue, 364.0ms
+image 492/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Russian_Blue_217_jpg.rf.ad1583dbf69b579e3aca28dba9a8379d.jpg: 640x640 1 Russian Blue, 356.8ms
+image 493/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Russian_Blue_233_jpg.rf.78afeac5b61484abaea2e041c70e1e78.jpg: 640x640 1 Russian Blue, 356.4ms
+image 494/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Russian_Blue_254_jpg.rf.5023f0dbad7459b4a91c3ec4ab0f855a.jpg: 640x640 1 Russian Blue, 359.7ms
+image 495/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Russian_Blue_26_jpg.rf.f88781c7c2ad16819b325f5a1078a687.jpg: 640x640 1 Russian Blue, 403.5ms
+image 496/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Russian_Blue_271_jpg.rf.09dd9f8e170a82f78d64c513137b9909.jpg: 640x640 1 Russian Blue, 368.0ms
+image 497/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Russian_Blue_280_jpg.rf.8ee734f3d4e8688d1be92d040a611d07.jpg: 640x640 1 Russian Blue, 360.4ms
+image 498/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Russian_Blue_285_jpg.rf.43fd4521f7b4cb87f63a7510808a9190.jpg: 640x640 1 Russian Blue, 353.8ms
+image 499/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Russian_Blue_296_jpg.rf.ba3b2f6187fea3fc4576b767421ae877.jpg: 640x640 1 Russian Blue, 368.5ms
+image 500/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Russian_Blue_304_jpg.rf.c982146e99266756d8853f4751f64062.jpg: 640x640 1 Russian Blue, 356.5ms
+image 501/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Russian_Blue_311_jpg.rf.dcd2a5e858ae02c6240121625bf381e2.jpg: 640x640 1 Russian Blue, 356.7ms
+image 502/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Russian_Blue_313_jpg.rf.59cac79cca22e201080afce413386bd4.jpg: 640x640 1 Russian Blue, 354.4ms
+image 503/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Russian_Blue_316_jpg.rf.51dd4d9f94245c14d3ad38366fa112b4.jpg: 640x640 1 Russian Blue, 372.8ms
+image 504/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Russian_Blue_317_jpg.rf.9d8ef43417a3098fb1019d1162f00d83.jpg: 640x640 1 Russian Blue, 369.5ms
+image 505/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Russian_Blue_319_jpg.rf.fbd3bda82b81a83e40f7f7f7e0a18bc2.jpg: 640x640 1 Russian Blue, 350.9ms
+image 506/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Russian_Blue_334_jpg.rf.95161b4d545176f06b64d4deb20636f6.jpg: 640x640 1 Russian Blue, 370.6ms
+image 507/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Russian_Blue_39_jpg.rf.c03f0960826ccad6ac6f83cb241b2c8a.jpg: 640x640 1 Russian Blue, 367.3ms
+image 508/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Russian_Blue_46_jpg.rf.f74d368a8c0e755e5e2ae1d2e723fc08.jpg: 640x640 1 Russian Blue, 379.4ms
+image 509/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Russian_Blue_52_jpg.rf.b6eedcd0c1ce0e81da1f7f77196f3521.jpg: 640x640 1 British Shorthair, 356.1ms
+image 510/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Russian_Blue_58_jpg.rf.c284667a4c64311428bdb2c848da0165.jpg: 640x640 1 Russian Blue, 353.8ms
+image 511/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Russian_Blue_63_jpg.rf.1f65a23658cbcf77fad706d87ef01b25.jpg: 640x640 1 Russian Blue, 362.7ms
+image 512/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Russian_Blue_8_jpg.rf.c058c21819fb4c0db36ae59ff063a159.jpg: 640x640 1 Russian Blue, 356.4ms
+image 513/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Savannah_116_jpg.rf.efb11cdde55ca4f35c23b5275905887d.jpg: 640x640 1 Savannah, 365.3ms
+image 514/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Savannah_119_jpg.rf.274733f028873252f3e10393c0a84fd6.jpg: 640x640 1 Savannah, 371.1ms
+image 515/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Savannah_120_jpg.rf.9c4a57b40f602dc12ff1b1783d944bf0.jpg: 640x640 1 Savannah, 356.5ms
+image 516/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Savannah_151_jpg.rf.d6d8e194eeee3505f62206cc2963cdba.jpg: 640x640 1 Savannah, 353.7ms
+image 517/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Savannah_155_webp.rf.f4d2cfaf015a9fa48e6f28c609ce3270.jpg: 640x640 1 Savannah, 362.1ms
+image 518/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Savannah_165_jpg.rf.eab7b53b196a1582e795d3cee12e64e7.jpg: 640x640 1 Savannah, 369.2ms
+image 519/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Savannah_171_jpg.rf.480f4345d4c94ea36a354081a300fbca.jpg: 640x640 1 Savannah, 368.8ms
+image 520/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Savannah_174_jpg.rf.28b7c9b885b4075f6fca5b7d6b853c34.jpg: 640x640 1 Savannah, 354.6ms
+image 521/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Savannah_18_jpg.rf.b4152f34d1c6c466e00298432840464f.jpg: 640x640 1 Savannah, 363.8ms
+image 522/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Savannah_192_jpg.rf.7ce94d3c80da5e5ac094291e2daf9a4f.jpg: 640x640 1 Savannah, 358.1ms
+image 523/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Savannah_1_webp.rf.066674010c83a9f1dbb57a0985dc582f.jpg: 640x640 1 American Bobtail, 1 Savannah, 361.2ms
+image 524/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Savannah_207_jpg.rf.525d2e331c9e931057a84a52954f6cbe.jpg: 640x640 1 Savannah, 355.6ms
+image 525/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Savannah_211_jpg.rf.1f40c34aeec60422e8dfdcd06e0d426f.jpg: 640x640 2 Savannahs, 363.7ms
+image 526/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Savannah_22_jpg.rf.85f902a4d32b3b04bc390ff1118c225a.jpg: 640x640 1 Savannah, 354.3ms
+image 527/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Savannah_32_jpg.rf.30ed6572bb17da90123600a57e4a15b0.jpg: 640x640 1 Savannah, 357.0ms
+image 528/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Savannah_35_jpg.rf.fae89bae637bd6602fb2ce9914d4f345.jpg: 640x640 1 Savannah, 354.4ms
+image 529/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Savannah_43_jpg.rf.11ceaad6dffffe9c246ade3678fc38b5.jpg: 640x640 1 Savannah, 377.8ms
+image 530/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Savannah_76_webp.rf.248c7bcb48c22f64514c58e57f7e75e1.jpg: 640x640 1 Savannah, 356.0ms
+image 531/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Savannah_7_jpg.rf.e27ec3185e46ce92c3a64d52aea678b2.jpg: 640x640 1 Savannah, 363.2ms
+image 532/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Savannah_82_avif.rf.5f6540445112d993e6f3a53770d39940.jpg: 640x640 2 Savannahs, 350.1ms
+image 533/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Savannah_83_jpg.rf.52b21cd139108222e363964e1ccd37a6.jpg: 640x640 1 Savannah, 361.0ms
+image 534/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Savannah_99_avif.rf.d41fa786a8e15f37bc9d3d7a8897368b.jpg: 640x640 2 Savannahs, 359.0ms
+image 535/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Scottish_Fold_10_webp.rf.cfb49124efe8685fbbf203e347977a54.jpg: 640x640 1 Scottish Fold, 388.6ms
+image 536/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Scottish_Fold_119_jpg.rf.81ff3347f098c99d32d125aec298277d.jpg: 640x640 1 Scottish Fold, 376.3ms
+image 537/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Scottish_Fold_127_jpg.rf.becefe04941f7312e51096e7bb93d61a.jpg: 640x640 1 Scottish Fold, 357.5ms
+image 538/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Scottish_Fold_154_jpg.rf.ea1fc43434e5bbeed99237f19a9ea272.jpg: 640x640 1 Scottish Fold, 365.3ms
+image 539/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Scottish_Fold_155_jpg.rf.44789d9c9cf9876aec321c694f31a757.jpg: 640x640 1 Scottish Fold, 361.2ms
+image 540/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Scottish_Fold_157_jpg.rf.553d7fbbcf67cfd0e7076c4c075ca060.jpg: 640x640 1 Scottish Fold, 370.0ms
+image 541/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Scottish_Fold_176_jpg.rf.0770e3cb7510e0bb3f3cc49d85b48d4e.jpg: 640x640 1 Scottish Fold, 358.2ms
+image 542/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Scottish_Fold_17_jpg.rf.1f5a93d03fe81b6e092158f7f286300c.jpg: 640x640 1 Scottish Fold, 354.2ms
+image 543/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Scottish_Fold_194_jpg.rf.76323200ee9492e587e8f806565a6d81.jpg: 640x640 1 Scottish Fold, 359.8ms
+image 544/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Scottish_Fold_201_jpg.rf.70bca07446ac306d6eb5d3f9d8806e40.jpg: 640x640 1 Scottish Fold, 355.1ms
+image 545/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Scottish_Fold_223_jpg.rf.c8c4c99ad3b905b8f71561c7458716ae.jpg: 640x640 1 Scottish Fold, 365.9ms
+image 546/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Scottish_Fold_231_jpg.rf.710df5f07cc9c90272f16e108e1741cc.jpg: 640x640 1 Scottish Fold, 359.4ms
+image 547/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Scottish_Fold_232_jpg.rf.a8d1056582d9159b03308a666eeaae41.jpg: 640x640 1 Scottish Fold, 354.0ms
+image 548/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Scottish_Fold_240_jpg.rf.faa9124db015147616a4b6434f7ee3ee.jpg: 640x640 1 Persian, 414.9ms
+image 549/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Scottish_Fold_242_jpg.rf.32a3735465d8c9967022327f359f1f40.jpg: 640x640 1 Scottish Fold, 374.7ms
+image 550/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Scottish_Fold_244_jpg.rf.1690c4299632a096f8fc3bfcc59bdd7f.jpg: 640x640 1 Scottish Fold, 394.1ms
+image 551/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Scottish_Fold_246_jpg.rf.e4e29ed2fa1057c9d4bd8636f1fe91a8.jpg: 640x640 1 Scottish Fold, 374.3ms
+image 552/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Scottish_Fold_268_jpg.rf.15bf29e01f74caa9f1b8aa21c57b6172.jpg: 640x640 (no detections), 377.7ms
+image 553/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Scottish_Fold_26_jpg.rf.a75032fb97e6bce4c9140fe3c010332c.jpg: 640x640 1 Scottish Fold, 372.4ms
+image 554/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Scottish_Fold_27_jpg.rf.4a3cce3b7e81459fb48fd48a022c5940.jpg: 640x640 1 Scottish Fold, 369.6ms
+image 555/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Scottish_Fold_288_jpg.rf.15aad3681669445cdf876c566545bfcb.jpg: 640x640 1 Scottish Fold, 412.3ms
+image 556/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Scottish_Fold_290_jpg.rf.4edac0a77748f193af7a5e00e63c0b11.jpg: 640x640 1 British Shorthair, 380.2ms
+image 557/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Scottish_Fold_29_webp.rf.0a46eb3b9db4b8fc9e377c783e4739bc.jpg: 640x640 1 Scottish Fold, 373.1ms
+image 558/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Scottish_Fold_313_jpg.rf.67d44c36ed7e7252e416eadbb02cc29c.jpg: 640x640 1 Tuxedo, 353.4ms
+image 559/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Scottish_Fold_327_jpg.rf.884fa1c6812776ff7390345b882c785c.jpg: 640x640 1 Scottish Fold, 364.5ms
+image 560/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Scottish_Fold_348_jpg.rf.eb2d66f1e17923040c9b6b0caf686e49.jpg: 640x640 1 Scottish Fold, 363.8ms
+image 561/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Scottish_Fold_349_jpg.rf.3d24cd105ced69099a5c77c7faf7b97d.jpg: 640x640 1 British Shorthair, 1 Russian Blue, 364.6ms
+image 562/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Scottish_Fold_362_jpg.rf.9d8ece7269a6455e26ad2a22fe755095.jpg: 640x640 1 Scottish Fold, 360.8ms
+image 563/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Scottish_Fold_368_jpg.rf.54995194d53b91e1f0d09ea07dee3765.jpg: 640x640 1 Munchkin, 355.9ms
+image 564/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Scottish_Fold_369_jpg.rf.3419a22c056ae8c4d3b37a2dd3852342.jpg: 640x640 (no detections), 360.8ms
+image 565/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Scottish_Fold_377_jpg.rf.f73f24a3025e882b6052a4895df6e625.jpg: 640x640 1 Scottish Fold, 357.4ms
+image 566/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Scottish_Fold_378_jpg.rf.0516333dc975d95acd985e59b9dd596f.jpg: 640x640 3 Scottish Folds, 350.7ms
+image 567/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Scottish_Fold_41_jpg.rf.8f60411a74324122dd864f470c38be82.jpg: 640x640 1 Scottish Fold, 371.8ms
+image 568/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Scottish_Fold_67_jpg.rf.336e31a129a80945f2188b8f98467847.jpg: 640x640 1 Scottish Fold, 350.1ms
+image 569/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Scottish_Fold_69_jpg.rf.a37c78185ebc7eda0c3aa347a493c5f4.jpg: 640x640 1 Scottish Fold, 357.9ms
+image 570/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Scottish_Fold_79_jpg.rf.6a02cda31e8c5f9c285b03819c05b980.jpg: 640x640 1 American Curl, 1 Munchkin, 5 Neva Masquerades, 358.7ms
+image 571/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Scottish_Fold_81_jpg.rf.060c676abd321d144bda4434f553f934.jpg: 640x640 1 Scottish Fold, 369.1ms
+image 572/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Scottish_Fold_87_jpg.rf.7ba95890d49f41fcaf954e53a3eae1f9.jpg: 640x640 1 Scottish Fold, 359.5ms
+image 573/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Siamese_120_jpg.rf.49c61254de9204173f3b1d74a6abadef.jpg: 640x640 1 Siamese, 358.8ms
+image 574/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Siamese_123_jpg.rf.47b9a32594a8e347e91fb495321aa5a5.jpg: 640x640 1 Siamese, 349.8ms
+image 575/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Siamese_132_jpg.rf.5a232d68cb268028a79a2ccf868f4bf9.jpg: 640x640 1 Siamese, 362.2ms
+image 576/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Siamese_176_jpg.rf.2909591c6a6685ca3e27f4186d1955c7.jpg: 640x640 1 Siamese, 355.2ms
+image 577/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Siamese_179_jpg.rf.32bcc0b08727c81ee006a803b7a41a2b.jpg: 640x640 1 Siamese, 358.7ms
+image 578/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Siamese_17_jpg.rf.cec3ca8cbe6d90c9e2169591b5261578.jpg: 640x640 1 Siamese, 359.1ms
+image 579/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Siamese_185_jpg.rf.b1477b49d8253b403c85df1c1de6b26b.jpg: 640x640 1 Bengal, 355.6ms
+image 580/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Siamese_186_jpg.rf.d43a488914b353ccc50f04877faf1232.jpg: 640x640 1 Siamese, 361.2ms
+image 581/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Siamese_188_jpg.rf.340d780cb53b9a3b30179dc6d96e273f.jpg: 640x640 1 Siamese, 356.5ms
+image 582/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Siamese_190_jpg.rf.c08686b06b67052b53205db5df1c64bb.jpg: 640x640 1 Siamese, 396.5ms
+image 583/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Siamese_198_jpg.rf.ef5aada4ec122c5e4de171e85fc52f56.jpg: 640x640 1 Siamese, 364.0ms
+image 584/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Siamese_207_jpg.rf.459732404770873d4b8323092c6716d9.jpg: 640x640 1 Siamese, 353.9ms
+image 585/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Siamese_216_jpg.rf.41f9eaf770573bb3b4a091e63c81847f.jpg: 640x640 1 Siamese, 372.7ms
+image 586/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Siamese_231_jpg.rf.1ada005f383766deb7049b27715d5fde.jpg: 640x640 1 Siamese, 372.8ms
+image 587/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Siamese_235_jpg.rf.82a5ca7653d9352fd85e8cbd7671c304.jpg: 640x640 1 Siamese, 365.4ms
+image 588/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Siamese_237_jpg.rf.00db9584954163da1fcb9d6463b444da.jpg: 640x640 1 Siamese, 361.0ms
+image 589/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Siamese_255_jpg.rf.307b13a334f3ddd48211a6e3821c46ee.jpg: 640x640 1 Siamese, 355.1ms
+image 590/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Siamese_261_jpg.rf.ac1d7a8e0133af2c6076ce54b3d3f7d9.jpg: 640x640 1 Siamese, 357.3ms
+image 591/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Siamese_26_jpg.rf.f5bd5b754e0693547dd28eb88edcddbb.jpg: 640x640 1 Siamese, 354.9ms
+image 592/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Siamese_277_jpg.rf.51acf61324a111e0c6c4a514c05f9a60.jpg: 640x640 1 Siamese, 352.1ms
+image 593/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Siamese_27_jpg.rf.1587853837f128e8f7fd84fe646622b8.jpg: 640x640 1 Siamese, 361.5ms
+image 594/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Siamese_281_jpg.rf.faf5d475f6add0b5d35403f5cb052cde.jpg: 640x640 1 Siamese, 362.6ms
+image 595/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Siamese_295_jpg.rf.74931f4b313e6048d076c73b71476673.jpg: 640x640 1 Siamese, 370.2ms
+image 596/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Siamese_30_jpg.rf.20a315962514b7f11e4142ef9398a93e.jpg: 640x640 1 Siamese, 351.7ms
+image 597/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Siamese_311_jpg.rf.5b5340a8562ef68b14ff76de4b7643de.jpg: 640x640 1 Siamese, 369.1ms
+image 598/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Siamese_315_jpg.rf.d4ceeb60dc3abf92a334d8077ef643bc.jpg: 640x640 1 Siamese, 356.4ms
+image 599/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Siamese_318_jpg.rf.ad4c0742c97fceebc8fb352580df17a6.jpg: 640x640 1 Siamese, 386.6ms
+image 600/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Siamese_339_jpg.rf.8e4f2bfc6ebed7df17c6365c801c2885.jpg: 640x640 1 Siamese, 393.0ms
+image 601/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Siamese_343_jpg.rf.1ae615b933779f3e299f2163e0e33c3c.jpg: 640x640 1 Siamese, 360.7ms
+image 602/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Siamese_54_jpg.rf.8c80201c6fb34db9c6816298aedab8c8.jpg: 640x640 1 Siamese, 361.9ms
+image 603/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Siamese_57_jpg.rf.d41a22fc29431287a56c5d3b32acdddb.jpg: 640x640 1 Siamese, 357.2ms
+image 604/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Siamese_64_jpg.rf.a05913cd6b310b4ae9a8bb81294c2741.jpg: 640x640 1 Siamese, 360.9ms
+image 605/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Siamese_65_jpg.rf.d5240ed44a560d4ee44e60afcad0c84e.jpg: 640x640 1 Siamese, 358.3ms
+image 606/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Siamese_6_jpg.rf.07255768938876f73ce84715956afa07.jpg: 640x640 1 Siamese, 354.5ms
+image 607/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Siamese_71_jpg.rf.502fa926890eb21270e70f1bf5fb448a.jpg: 640x640 1 Siamese, 360.2ms
+image 608/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Siamese_85_jpg.rf.2ba1695a69e5ea714ef7bb8dd4ecc02a.jpg: 640x640 1 Siamese, 358.1ms
+image 609/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Sphynx_112_jpg.rf.6d0135de79b6b19c8bee29f4293fa162.jpg: 640x640 1 Sphynx, 363.9ms
+image 610/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Sphynx_145_jpg.rf.bb428bd07efd07605c932bf00e670eed.jpg: 640x640 1 Sphynx, 358.0ms
+image 611/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Sphynx_14_jpg.rf.e77d8a9ea76c059880fd98ffebc99c45.jpg: 640x640 1 Sphynx, 359.7ms
+image 612/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Sphynx_151_jpg.rf.55e0245f00523722a5aacc46a1165ff0.jpg: 640x640 1 Sphynx, 364.2ms
+image 613/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Sphynx_155_jpg.rf.51e498929f3177735b0d4680491781ff.jpg: 640x640 1 Sphynx, 356.9ms
+image 614/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Sphynx_163_jpg.rf.cfeb1383f8a54565abe42dda771ce8c5.jpg: 640x640 1 Sphynx, 359.8ms
+image 615/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Sphynx_173_jpg.rf.739205ee0d065480a1be4b61141319f4.jpg: 640x640 1 Sphynx, 363.2ms
+image 616/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Sphynx_181_jpg.rf.5f5cae59368ddd7501b9ef9269057751.jpg: 640x640 1 Sphynx, 356.0ms
+image 617/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Sphynx_184_jpg.rf.017e4a4285fccbabd255ea555159aa47.jpg: 640x640 1 Sphynx, 357.5ms
+image 618/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Sphynx_198_jpg.rf.7ad79696c668bbaa8f6f85410e94478f.jpg: 640x640 1 Sphynx, 354.4ms
+image 619/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Sphynx_208_jpg.rf.c2bd4bcc826039ee15d07c6e31faa795.jpg: 640x640 1 Abyssinian, 1 Sphynx, 354.9ms
+image 620/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Sphynx_215_jpg.rf.9cabbb9e2a62f93e78aeae2d28a86310.jpg: 640x640 1 Sphynx, 356.4ms
+image 621/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Sphynx_225_jpg.rf.0a48cb1f41da626dbd44985ce926bdd2.jpg: 640x640 1 Sphynx, 356.9ms
+image 622/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Sphynx_227_jpg.rf.957683bfe7b24b6f7374296d58439156.jpg: 640x640 1 Sphynx, 357.8ms
+image 623/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Sphynx_255_jpg.rf.f7d330e42bebd224e61818c16d1d35b7.jpg: 640x640 1 Sphynx, 361.5ms
+image 624/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Sphynx_267_jpg.rf.1d7ac83ac760fa2f9d1ce005b4ea687a.jpg: 640x640 1 Sphynx, 358.7ms
+image 625/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Sphynx_281_jpg.rf.8fc31baa7fe838635448ce56ce7676c3.jpg: 640x640 1 Sphynx, 360.6ms
+image 626/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Sphynx_285_jpg.rf.89822f5d9469861a27c5fe0630544c12.jpg: 640x640 1 Sphynx, 369.4ms
+image 627/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Sphynx_286_jpg.rf.17769c3de7fe2b46384c3a495c2652eb.jpg: 640x640 (no detections), 391.1ms
+image 628/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Sphynx_292_jpg.rf.a97f0b8e38934fb38dbe190dbd1a9bc3.jpg: 640x640 2 Sphynxs, 369.0ms
+image 629/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Sphynx_301_jpg.rf.ec5343e36933b6d31e93bc3b7ac37444.jpg: 640x640 1 Sphynx, 422.7ms
+image 630/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Sphynx_315_jpg.rf.a83fa2def6cd808a325a8abd6f9804bf.jpg: 640x640 1 Sphynx, 364.2ms
+image 631/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Sphynx_317_jpg.rf.c55a02c11c0263a7c0f7683446c35ad0.jpg: 640x640 1 Sphynx, 379.7ms
+image 632/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Sphynx_3_jpg.rf.d1a5feba26d0708077733b1b2858ec4b.jpg: 640x640 1 Sphynx, 374.5ms
+image 633/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Sphynx_43_jpg.rf.acc795c6254bedc28a8845a6958c78b8.jpg: 640x640 1 Sphynx, 376.2ms
+image 634/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Sphynx_53_jpg.rf.1d8ac235eab6544101dba9efd6ccdbdc.jpg: 640x640 1 Sphynx, 372.8ms
+image 635/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Sphynx_6_jpg.rf.fd5ddff096df6e11f460e7df06e768cf.jpg: 640x640 1 Sphynx, 397.2ms
+image 636/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Sphynx_74_jpg.rf.c5f8f2341c7095ca12f8fc0eceae4a7d.jpg: 640x640 1 Sphynx, 393.4ms
+image 637/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Sphynx_79_jpg.rf.55cddf968b438751336f378c727efdb3.jpg: 640x640 1 Sphynx, 366.1ms
+image 638/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Sphynx_88_jpg.rf.71b236933dbe72f554098f1fc18d3768.jpg: 640x640 1 Sphynx, 357.6ms
+image 639/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Sphynx_92_jpg.rf.018b5f8baba911aee67e244939f0a98a.jpg: 640x640 1 Sphynx, 366.2ms
+image 640/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Sphynx_95_jpg.rf.78103999013366d5982d2427f2761785.jpg: 640x640 1 Sphynx, 368.8ms
+image 641/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Toyger_127_webp.rf.6ee5f1c5bab19e550d0465eafa883066.jpg: 640x640 1 Toyger, 377.6ms
+image 642/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Toyger_138_jpg.rf.3e53d8be813d7d8c3c7bd576679f7e4a.jpg: 640x640 1 Bengal, 361.8ms
+image 643/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Toyger_152_jpg.rf.82678d356fc40d86832e45ee86ec3092.jpg: 640x640 1 Toyger, 359.5ms
+image 644/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Toyger_175_jpg.rf.ea82096467125f140becbd2fd149aa68.jpg: 640x640 1 Toyger, 364.0ms
+image 645/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Toyger_177_jpg.rf.e430d497ef372c3ac221801cdee170e9.jpg: 640x640 1 Toyger, 359.7ms
+image 646/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Toyger_178_jpg.rf.05fd96694d4ff76374432791d344d7d5.jpg: 640x640 1 Toyger, 361.5ms
+image 647/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Toyger_190_jpg.rf.ad0ad534486d5e57055f67cabe87d5b3.jpg: 640x640 1 Toyger, 370.3ms
+image 648/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Toyger_1_jpg.rf.24721a46698e2df420d1393c3c0157c9.jpg: 640x640 1 Toyger, 359.2ms
+image 649/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Toyger_30_jpg.rf.48c566873e41c48192dd2b2267d9edca.jpg: 640x640 1 Toyger, 365.5ms
+image 650/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Toyger_32_webp.rf.15fee34a0e5406f0d7ca778281709020.jpg: 640x640 1 Toyger, 353.5ms
+image 651/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Toyger_37_jpg.rf.1bdde57c03b2012d3bc470036e3a2a08.jpg: 640x640 1 Toyger, 361.7ms
+image 652/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Toyger_39_jpg.rf.b70d8394ccd95260a0c53770e2ef1627.jpg: 640x640 1 Toyger, 352.4ms
+image 653/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Toyger_50_webp.rf.8949e8e9b4b375e5dcca2f2431ab6836.jpg: 640x640 1 Savannah, 355.7ms
+image 654/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Toyger_56_jpg.rf.87de1365b99a80cb45a5be62cc1fc2cb.jpg: 640x640 1 Toyger, 360.6ms
+image 655/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Toyger_64_jpg.rf.9e44e3fdc7edf7cd014feca4f40f8f8c.jpg: 640x640 1 Toyger, 364.0ms
+image 656/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Toyger_72_avif.rf.cdb569dbc227488622e491b626c3a8f7.jpg: 640x640 2 Toygers, 363.1ms
+image 657/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Toyger_78_jpg.rf.b920d8494b11d724b60d4428fb65c98f.jpg: 640x640 1 Toyger, 367.6ms
+image 658/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Toyger_7_webp.rf.d052b794898b71fed7240fc8202105ab.jpg: 640x640 1 Toyger, 363.2ms
+image 659/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Toyger_81_jpg.rf.8a649d238cecdd91d4a6010cf9c6420b.jpg: 640x640 1 Toyger, 359.0ms
+image 660/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Toyger_93_jpg.rf.12b5f020b9633f01d85fd97be83316a1.jpg: 640x640 1 Toyger, 365.4ms
+image 661/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Toyger_97_jpg.rf.65d31c24eeb26dc736dd5c9926adfb37.jpg: 640x640 1 Toyger, 387.2ms
+image 662/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Tuxedo_101_jpg.rf.42f5fa492b8a1d7d3e2628ddab27e843.jpg: 640x640 1 Tuxedo, 369.7ms
+image 663/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Tuxedo_116_jpg.rf.3ed94008ebf4207100eb1b3422ec648f.jpg: 640x640 1 Tuxedo, 457.7ms
+image 664/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Tuxedo_140_jpg.rf.e0768fb500e07654675ce3caa20317fb.jpg: 640x640 1 Tuxedo, 480.1ms
+image 665/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Tuxedo_142_jpg.rf.d451ebdabfb84038ecf6f651ff26d2e2.jpg: 640x640 1 Tuxedo, 400.6ms
+image 666/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Tuxedo_160_jpg.rf.761bd8580a21d80b147db11f2a5726bd.jpg: 640x640 1 Tuxedo, 453.1ms
+image 667/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Tuxedo_16_jpg.rf.465a46cfd72d5cdfc36ab7386025b8c3.jpg: 640x640 1 Tuxedo, 386.5ms
+image 668/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Tuxedo_176_jpg.rf.6ddb75232e18a1ab33ccd5205547837a.jpg: 640x640 1 Tuxedo, 353.6ms
+image 669/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Tuxedo_177_jpg.rf.360c83032361779f48f08bf904762261.jpg: 640x640 1 Tuxedo, 408.9ms
+image 670/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Tuxedo_189_jpg.rf.4b57de65b0d8dd3ace148b6e72bac714.jpg: 640x640 1 Tuxedo, 373.2ms
+image 671/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Tuxedo_197_jpg.rf.69842a6712557c161138eaa216215b95.jpg: 640x640 1 Tuxedo, 464.1ms
+image 672/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Tuxedo_216_jpg.rf.af4c5d9eae276d8c882c088624b7ef92.jpg: 640x640 1 Tuxedo, 521.7ms
+image 673/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Tuxedo_218_jpg.rf.a6821d922a7041aad34bbec41bdcfe06.jpg: 640x640 1 Tuxedo, 387.6ms
+image 674/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Tuxedo_230_jpg.rf.ccf4540dbbd0d6f05ea291b316557919.jpg: 640x640 1 Tuxedo, 476.9ms
+image 675/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Tuxedo_231_jpg.rf.150f8d5fa0dadd83bdaa304c5b98f3cf.jpg: 640x640 1 Tuxedo, 484.7ms
+image 676/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Tuxedo_234_jpg.rf.c309bf7a8da5acd4f150ea3599328ac2.jpg: 640x640 1 Tuxedo, 456.1ms
+image 677/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Tuxedo_238_jpg.rf.60608993c0997ff463955c258aa2294b.jpg: 640x640 1 American Bobtail, 433.1ms
+image 678/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Tuxedo_23_jpg.rf.9f6632f890bad349c87e7a2d045bba2a.jpg: 640x640 1 Tuxedo, 433.6ms
+image 679/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Tuxedo_248_jpg.rf.c79578c1cc0aae5ac3cb6a4d6e11e164.jpg: 640x640 1 Tuxedo, 438.0ms
+image 680/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Tuxedo_26_jpg.rf.c5e5bf4e197916c2add9c6e436e7dcd0.jpg: 640x640 1 Tuxedo, 404.5ms
+image 681/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Tuxedo_271_jpg.rf.1d7783aae4a560866d8e69cb65773d96.jpg: 640x640 1 Tuxedo, 366.6ms
+image 682/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Tuxedo_281_jpg.rf.f17e655aa8e53cd91e60f7581348cdd9.jpg: 640x640 1 Tuxedo, 356.9ms
+image 683/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Tuxedo_284_jpg.rf.9a5786b1fbb441ebb6308dd117b97d58.jpg: 640x640 1 Tuxedo, 353.6ms
+image 684/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Tuxedo_288_jpg.rf.8ef358c028c0e8ef8b5440b022f31ba4.jpg: 640x640 1 Tuxedo, 397.3ms
+image 685/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Tuxedo_299_jpg.rf.391f1f66878fd52ba7bfb42511f5733e.jpg: 640x640 1 Tuxedo, 372.8ms
+image 686/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Tuxedo_308_jpg.rf.f9d0cd1c9a8ae1f0a2dcd3cc1171c3b6.jpg: 640x640 1 Tuxedo, 392.4ms
+image 687/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Tuxedo_30_jpg.rf.47e0078c753d99371e30ed10631f9970.jpg: 640x640 1 Tuxedo, 379.4ms
+image 688/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Tuxedo_313_jpg.rf.b4e46acf0e5811e62110a69dfa14750c.jpg: 640x640 1 Tuxedo, 405.0ms
+image 689/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Tuxedo_333_jpg.rf.aa4c5e945d70fb7e238ff236049adb8d.jpg: 640x640 1 Tuxedo, 401.7ms
+image 690/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Tuxedo_344_jpg.rf.7282660ce0ddac458ba6eec30f1b731e.jpg: 640x640 1 Tuxedo, 400.0ms
+image 691/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Tuxedo_34_jpg.rf.b5237b383f3866e5a5ea2a085e51856b.jpg: 640x640 1 Tuxedo, 462.6ms
+image 692/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Tuxedo_4_jpg.rf.03bc65bafac316e16552d034880e6dbc.jpg: 640x640 1 Tuxedo, 360.2ms
+image 693/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Tuxedo_66_jpg.rf.0a9c0d58eb2e92e144d81db258722fc2.jpg: 640x640 1 Tuxedo, 375.9ms
+image 694/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Tuxedo_77_jpg.rf.2afbad6559b0b42c0bc8c5cc1786a262.jpg: 640x640 1 Tuxedo, 366.9ms
+image 695/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Tuxedo_7_jpg.rf.92245e0e35913c63df74019f0ea75573.jpg: 640x640 1 Tuxedo, 397.2ms
+image 696/696 C:\Users\ddkub\Desktop\ITVR_Coursework\test_images\Tuxedo_95_jpg.rf.57de2cd4502f85166f02bb158f2ccb94.jpg: 640x640 1 Tuxedo, 368.7ms
+Speed: 2.9ms preprocess, 369.0ms inference, 0.9ms postprocess per image at shape (1, 3, 640, 640)
+Results saved to runs\detect\predict
+Детекцію завершено. Результати збережено у папці runs/predict.
+Все завершено успішно.

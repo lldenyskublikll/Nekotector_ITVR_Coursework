@@ -1,0 +1,31 @@
+======================================================== MODELS ==========================================================
+
+YOLO v11 m (25 epochs, 16 images per batch): "researches/yolo11m_(25_epochs,_16_img_per_batch)/runs/detect/train_result"
+"C:\Users\ddkub\Desktop\ITVR_Coursework\researches\yolo11m_(25_epochs,_16_img_per_batch)\runs\detect\train_result"
+
+YOLO v11 m (50 epochs, 8 images per batch): "researches/yolo11m_(50_epochs,_8_img_per_batch)/runs/detect/train_result"
+"C:\Users\ddkub\Desktop\ITVR_Coursework\researches\yolo11m_(50_epochs,_8_img_per_batch)\runs\detect\train_result"
+
+YOLO v11 m (50 epochs, 16 images per batch): "researches/yolo11m_(50_epochs,_16_img_per_batch)/runs/detect/train_result"
+"C:\Users\ddkub\Desktop\ITVR_Coursework\researches\yolo11m_(50_epochs,_16_img_per_batch)\runs\detect\train_result"
+
+YOLO v11 m (50 epochs, 32 images per batch): "researches/yolo11m_(50_epochs,_32_img_per_batch)/runs/detect/train_result"
+"C:\Users\ddkub\Desktop\ITVR_Coursework\researches\yolo11m_(50_epochs,_32_img_per_batch)\runs\detect\train_result"
+
+YOLO v11 m (100 epochs, 16 images per batch): "researches/yolo11m_(100_epochs,_16_img_per_batch)/runs/detect/train_result"
+"C:\Users\ddkub\Desktop\ITVR_Coursework\researches\yolo11m_(100_epochs,_16_img_per_batch)\runs\detect\train_result"
+
+==========================================================================================================================
+
+====================================================== TEST FILES ========================================================
+
+Тестові зображення з датасету:
+"C:/Users/ddkub/Desktop/ITVR_Coursework/test_images"
+
+Власні тестові зображення:
+"C:/Users/ddkub/Desktop/ITVR_Coursework/test_images_real"
+
+Тестові відео:
+"C:/Users/ddkub/Desktop/ITVR_Coursework/test_videos" 
+
+==========================================================================================================================
